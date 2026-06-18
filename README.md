@@ -1,3 +1,8 @@
+## Sample Output
+![Validation script output](screenshots/validation_output.png)
+![Accuracy check output](screenshots/accuracy_check_output.png)
+![Categorization script output](screenshots/categorize_output.png)
+
 # Data Review & Quality Assurance Portfolio
 
 This repository is a portfolio of sample projects demonstrating core data review and quality assurance skills: catching duplicates, missing values, and formatting errors; categorizing unstructured text accurately and checking that accuracy; reviewing spreadsheets for data integrity issues; writing clear technical documentation; and summarizing information accurately in writing.
