@@ -1,0 +1,561 @@
+sample_id,text,predicted_category,keyword_match_count
+1,Hartview Co is rolling out app to enterprise customers this quarter.,Technology,1
+2,The real estate industry saw record growth in export volume last quarter.,Uncategorized,0
+3,A team of researchers published findings on fossil record in a peer-reviewed journal.,Science,3
+4,The mayor's office proposed changes to healthcare reform ahead of the election.,Politics,1
+5,A new study links better sleep habits to a lower risk of joint pain.,Health,3
+6,Shares of Nexora fell after operating costs missed forecasts.,Business & Finance,2
+7,Researchers are testing a treatment for chronic fatigue involving daily walking.,Health,2
+8,Public health officials warn that insomnia cases are rising this season.,Health,1
+9,Critics gave mixed reviews to singer Theo Banks's latest animated special.,Entertainment,2
+10,A breakthrough in materials science could lead to practical uses for exoplanet.,Science,1
+11,Astronomers detected a new mineral deposit using a space-based telescope.,Science,2
+12,Travelers are flocking to Driftwood Bay for its beachfront resorts.,Travel,2
+13,director Maya Lin discussed the inspiration behind their new album in an interview.,Entertainment,2
+14,Bridgeline Corp announced a merger that could reshape the automotive sector.,Business & Finance,1
+15,Doctors recommend daily walking as part of managing joint pain.,Health,2
+16,Quanta Labs announced it will open-source its laptop battery toolkit.,Technology,3
+17,Engineers at Veltrix unveiled a app update focused on accessibility.,Technology,2
+18,The Riverside Hawks signed Jamal Carter to a multi-year contract extension.,Sports,1
+19,Travelers are flocking to Driftwood Bay for its historic landmarks.,Travel,1
+20,The Coastal Titans secured a last-minute win over their Valley Sharks rivals.,Sports,1
+21,Shares of Nexora fell after revenue missed forecasts.,Business & Finance,3
+22,Negotiations over climate regulations stalled after disagreements between parties.,Politics,1
+23,The new stage musical from singer Theo Banks topped the charts in its opening week.,Entertainment,2
+24,A new guide highlights the best national parks to experience in Bellamare.,Travel,2
+25,Experts say strength training alone is not enough to prevent anxiety disorders.,Health,1
+26,Reviews praise Calderbrook's local food markets as a top reason to visit.,Travel,1
+27,A new poll shows shifting public opinion on tax policy in the western province.,Politics,1
+28,Northcairn is seeing a surge in tourism after new beachfront resorts were introduced.,Travel,2
+29,Reviews praise Driftwood Bay's museums as a top reason to visit.,Travel,2
+30,A clinical trial found that regular exercise reduced symptoms of insomnia in adults.,Health,4
+31,A new guide highlights the best waterfront promenades to experience in Porto Vale.,Travel,2
+32,Ticket sales surged ahead of the Valley Sharks versus Lakeside Bears championship game.,Sports,2
+33,The latest app update adds AI-assisted voice recognition suggestions.,Technology,3
+34,Experts say a Mediterranean diet alone is not enough to prevent anxiety disorders.,Health,2
+35,A team of researchers published findings on exoplanet in a peer-reviewed journal.,Science,2
+36,Airlines added more routes to Lake Senna ahead of the busy season.,Travel,2
+37,A clinical trial found that daily walking reduced symptoms of chronic fatigue in adults.,Health,3
+38,Protesters gathered outside the county commission to oppose the immigration policy plan.,Politics,1
+39,Engineers at Hartview Co unveiled a laptop update focused on storage.,Technology,3
+40,A new study links strength training to a lower risk of heart disease.,Health,2
+41,Travelers are flocking to Driftwood Bay for its local food markets.,Travel,1
+42,Nutritionists explain how strength training affects long-term type 2 diabetes risk.,Health,2
+43,A new poll shows shifting public opinion on immigration policy in the border region.,Politics,1
+44,Critics gave mixed reviews to showrunner Dana Webb's latest animated special.,Entertainment,2
+45,A new study links a Mediterranean diet to a lower risk of seasonal flu.,Health,3
+46,Voters in the western province will decide on a housing policy measure this fall.,Politics,1
+47,A field study tracked gravitational signal patterns over the past decade in neuroscience.,Science,2
+48,The new animated special from producer Alex Kim topped the charts in its opening week.,Entertainment,1
+49,Solara Systems announced it will open-source its app processing speed toolkit.,Technology,3
+50,The mayor's office signed an order addressing healthcare reform concerns.,Uncategorized,0
+51,A new guide highlights the best hiking trails to experience in Isla Verde.,Travel,2
+52,Engineers at Veltrix unveiled a cloud platform update focused on security.,Technology,2
+53,A field study tracked fossil record patterns over the past decade in paleontology.,Science,2
+54,Officials clashed over funding for climate regulations during the budget hearing.,Politics,2
+55,Eli Robinson scored a career-high total in the Valley Sharks victory.,Sports,2
+56,The mayor's office proposed changes to minimum wage ahead of the election.,Politics,1
+57,Investors are watching stock buybacks closely ahead of the central bank meeting.,Business & Finance,3
+58,Reviews praise Northcairn's historic landmarks as a top reason to visit.,Travel,1
+59,Critics gave mixed reviews to showrunner Dana Webb's latest stage musical.,Entertainment,2
+60,Doctors recommend a low-sodium diet as part of managing high blood pressure.,Health,3
+61,"Award nominations were announced, with showrunner Dana Webb's film leading the pack.",Entertainment,3
+62,Funding for materials science research focused on ocean current pattern was increased this year.,Politics,1
+63,The Valley Sharks coach defended the team's strategy after the loss to Union Stars.,Sports,1
+64,Scientists say the gravitational signal could change how we understand neuroscience.,Science,2
+65,A clinical trial found that reduced screen time reduced symptoms of high blood pressure in adults.,Health,3
+66,Northfield Inc announced it will open-source its smartphone processing speed toolkit.,Technology,3
+67,Nutritionists explain how intermittent fasting affects long-term chronic fatigue risk.,Health,2
+68,"Award nominations were announced, with studio Pinegrove's novel adaptation leading the pack.",Entertainment,3
+69,The airline industry saw record growth in revenue last quarter.,Business & Finance,1
+70,The documentary starring author R. Castillo broke streaming records over the weekend.,Entertainment,2
+71,Local officials in Northcairn are investing in local food markets for visitors.,Travel,1
+72,Reviewers say the app improves accessibility but battery life suffers.,Technology,2
+73,Developers are migrating to browser for better storage support.,Technology,3
+74,Investors are watching quarterly sales closely ahead of the central bank meeting.,Business & Finance,3
+75,The animated special starring comedian Greg Adler broke streaming records over the weekend.,Entertainment,3
+76,Injuries have forced the Coastal Titans to rethink their lineup for the playoffs.,Sports,3
+77,The Riverside Hawks signed Sam Whitfield to a multi-year contract extension.,Sports,1
+78,Analysts raised their price target for Bridgeline Corp citing strong stock buybacks.,Business & Finance,3
+79,Hartview Co announced it will open-source its chip accessibility toolkit.,Technology,2
+80,Reviews praise Northcairn's guided tours as a top reason to visit.,Travel,3
+81,Engineers at Northfield Inc unveiled a laptop update focused on storage.,Technology,3
+82,The federal agency signed an order addressing healthcare reform concerns.,Uncategorized,0
+83,The soundtrack for showrunner Dana Webb's album was released ahead of schedule.,Entertainment,3
+84,Northfield Inc announced a merger that could reshape the real estate sector.,Business & Finance,1
+85,Engineers at Quanta Labs unveiled a cloud platform update focused on processing speed.,Technology,3
+86,"Award nominations were announced, with author R. Castillo's stage musical leading the pack.",Entertainment,2
+87,Experts caution that more data is needed to confirm the exoplanet.,Uncategorized,0
+88,Developers are migrating to software suite for better processing speed support.,Technology,3
+89,Driftwood Bay introduced new rules affecting museums for tourists.,Travel,1
+90,Airlines added more routes to Isla Verde ahead of the busy season.,Travel,2
+91,Porto Vale is seeing a surge in tourism after new historic landmarks were introduced.,Travel,1
+92,The film starring band The Hollow Pines broke streaming records over the weekend.,Entertainment,2
+93,Eli Robinson scored a career-high total in the Summit Eagles victory.,Sports,2
+94,A new poll shows shifting public opinion on minimum wage in the northern district.,Politics,1
+95,Porto Vale introduced new rules affecting historic landmarks for tourists.,Uncategorized,0
+96,Analysts raised their price target for Veltrix citing strong stock buybacks.,Business & Finance,3
+97,Experts caution that more data is needed to confirm the gene variant.,Science,1
+98,The new streaming series from band The Hollow Pines topped the charts in its opening week.,Entertainment,1
+99,The city council proposed changes to healthcare reform ahead of the election.,Politics,2
+100,Fans were disappointed after the Lakeside Bears lost to the Summit Eagles at home.,Technology,1
+101,A new poll shows shifting public opinion on climate regulations in the western province.,Politics,1
+102,Researchers are testing a treatment for heart disease involving reduced screen time.,Health,2
+103,Public health officials warn that seasonal flu cases are rising this season.,Health,1
+104,A breakthrough in neuroscience could lead to practical uses for atmospheric anomaly.,Science,2
+105,Hartview Co is cutting jobs as it restructures around export volume.,Business & Finance,1
+106,The new streaming series from singer Theo Banks topped the charts in its opening week.,Entertainment,2
+107,Reviewers say the wearable device improves accessibility but battery life suffers.,Technology,2
+108,A team of researchers published findings on mineral deposit in a peer-reviewed journal.,Science,2
+109,The Union Stars secured a last-minute win over their Summit Eagles rivals.,Sports,1
+110,Solara Systems announced a merger that could reshape the hospitality sector.,Business & Finance,1
+111,A field study tracked gravitational signal patterns over the past decade in geology.,Science,2
+112,Analysts raised their price target for Hartview Co citing strong export volume.,Business & Finance,2
+113,Protesters gathered outside the federal agency to oppose the infrastructure spending plan.,Politics,1
+114,Fans were disappointed after the Union Stars lost to the Coastal Titans at home.,Technology,1
+115,The Northgate Wolves signed Sam Whitfield to a multi-year contract extension.,Sports,1
+116,Experts say a low-sodium diet alone is not enough to prevent insomnia.,Health,2
+117,Fans were disappointed after the Harbor City FC lost to the Harbor City FC at home.,Technology,1
+118,The manufacturing industry saw record growth in revenue last quarter.,Business & Finance,1
+119,band The Hollow Pines discussed the inspiration behind their new stage musical in an interview.,Entertainment,1
+120,Ticket sales surged ahead of the Union Stars versus Riverside Hawks championship game.,Sports,2
+121,Solara Systems is cutting jobs as it restructures around revenue.,Business & Finance,2
+122,Fans were disappointed after the Northgate Wolves lost to the Summit Eagles at home.,Technology,1
+123,Officials clashed over funding for immigration policy during the budget hearing.,Politics,2
+124,Developers are migrating to laptop for better processing speed support.,Technology,3
+125,Fans were disappointed after the Riverside Hawks lost to the Lakeside Bears at home.,Technology,1
+126,studio Pinegrove announced a sequel to their hit novel adaptation.,Entertainment,2
+127,Sam Whitfield was named player of the week following a standout performance.,Sports,1
+128,A new guide highlights the best beachfront resorts to experience in Lake Senna.,Travel,2
+129,A breakthrough in astrophysics could lead to practical uses for fossil record.,Science,2
+130,singer Theo Banks discussed the inspiration behind their new novel adaptation in an interview.,Entertainment,2
+131,The new novel adaptation from comedian Greg Adler topped the charts in its opening week.,Entertainment,2
+132,Engineers at Hartview Co unveiled a app update focused on voice recognition.,Technology,3
+133,A clinical trial found that regular exercise reduced symptoms of seasonal flu in adults.,Health,4
+134,A field study tracked atmospheric anomaly patterns over the past decade in genetics.,Science,2
+135,A security researcher found a flaw in laptop that affects accessibility.,Technology,1
+136,Ticket sales surged ahead of the Summit Eagles versus Valley Sharks championship game.,Sports,2
+137,The new software suite from Bridgeline Corp promises faster data sync performance.,Technology,2
+138,Hospitals report a shortage of staff trained to treat high blood pressure.,Health,2
+139,Doctors recommend strength training as part of managing insomnia.,Health,2
+140,Marrow Tech announced a merger that could reshape the airline sector.,Business & Finance,1
+141,Analysts raised their price target for Marrow Tech citing strong profit margins.,Business & Finance,3
+142,Small businesses in the manufacturing sector are struggling with rising costs.,Uncategorized,0
+143,The Harbor City FC signed Devon Price to a multi-year contract extension.,Sports,1
+144,The Riverside Hawks secured a last-minute win over their Northgate Wolves rivals.,Sports,1
+145,Travelers are flocking to Isla Verde for its national parks.,Travel,2
+146,Experts say a Mediterranean diet alone is not enough to prevent heart disease.,Health,2
+147,Budget travelers are choosing Lake Senna for affordable guided tours.,Travel,3
+148,Small businesses in the automotive sector are struggling with rising costs.,Uncategorized,0
+149,Public health officials warn that chronic fatigue cases are rising this season.,Health,1
+150,Tyler Banks scored a career-high total in the Union Stars victory.,Sports,2
+151,The Union Stars signed Carlos Vega to a multi-year contract extension.,Sports,1
+152,The new documentary from showrunner Dana Webb topped the charts in its opening week.,Entertainment,2
+153,Fans reacted to the surprise trailer for director Maya Lin's upcoming novel adaptation.,Entertainment,3
+154,A clinical trial found that intermittent fasting reduced symptoms of joint pain in adults.,Health,3
+155,Funding for climate science research focused on exoplanet was increased this year.,Politics,1
+156,Funding for climate science research focused on ocean current pattern was increased this year.,Politics,1
+157,Scientists say the gene variant could change how we understand paleontology.,Science,2
+158,The new laptop from Nexora promises faster security performance.,Technology,1
+159,The gravitational signal was confirmed by two independent research groups.,Science,2
+160,Injuries have forced the Union Stars to rethink their lineup for the playoffs.,Sports,3
+161,The regulatory board proposed changes to healthcare reform ahead of the election.,Politics,2
+162,The county commission proposed changes to education funding ahead of the election.,Politics,2
+163,The Summit Eagles secured a last-minute win over their Riverside Hawks rivals.,Sports,1
+164,Noah Fischer was named player of the week following a standout performance.,Sports,1
+165,Small businesses in the hospitality sector are struggling with rising costs.,Uncategorized,0
+166,The new laptop from Bridgeline Corp promises faster accessibility performance.,Technology,1
+167,Critics gave mixed reviews to comedian Greg Adler's latest documentary.,Entertainment,2
+168,Isla Verde is seeing a surge in tourism after new waterfront promenades were introduced.,Travel,2
+169,A security researcher found a flaw in app that affects accessibility.,Technology,1
+170,Solara Systems is cutting jobs as it restructures around operating costs.,Business & Finance,1
+171,Small businesses in the retail sector are struggling with rising costs.,Uncategorized,0
+172,Protesters gathered outside the county commission to oppose the tax policy plan.,Politics,1
+173,Protesters gathered outside the senate committee to oppose the housing policy plan.,Politics,1
+174,Reviewers say the cloud platform improves processing speed but battery life suffers.,Technology,3
+175,Nexora announced a merger that could reshape the airline sector.,Business & Finance,1
+176,singer Theo Banks discussed the inspiration behind their new documentary in an interview.,Entertainment,2
+177,Critics gave mixed reviews to director Maya Lin's latest streaming series.,Entertainment,2
+178,The fossil record was confirmed by two independent research groups.,Science,2
+179,Fans were disappointed after the Valley Sharks lost to the Riverside Hawks at home.,Technology,1
+180,Quanta Labs reported quarterly earnings that beat analyst expectations on stock buybacks.,Business & Finance,3
+181,"Award nominations were announced, with director Maya Lin's documentary leading the pack.",Entertainment,3
+182,Solara Systems is cutting jobs as it restructures around profit margins.,Business & Finance,2
+183,author R. Castillo announced a sequel to their hit album.,Entertainment,1
+184,Experts say a Mediterranean diet alone is not enough to prevent seasonal flu.,Health,2
+185,Public health officials warn that type 2 diabetes cases are rising this season.,Health,1
+186,Engineers at Nexora unveiled a chip update focused on camera.,Technology,3
+187,studio Pinegrove discussed the inspiration behind their new documentary in an interview.,Entertainment,2
+188,Airlines added more routes to Bellamare ahead of the busy season.,Travel,2
+189,Lawmakers debated a new education funding bill in a heated session.,Politics,3
+190,A field study tracked atmospheric anomaly patterns over the past decade in marine biology.,Science,2
+191,The ocean current pattern was confirmed by two independent research groups.,Science,1
+192,Astronomers detected a new gene variant using a space-based telescope.,Science,3
+193,Shares of Northfield Inc fell after stock buybacks missed forecasts.,Business & Finance,3
+194,The federal agency signed an order addressing immigration policy concerns.,Uncategorized,0
+195,A new study links daily walking to a lower risk of type 2 diabetes.,Health,2
+196,A new poll shows shifting public opinion on immigration policy in the capital region.,Politics,1
+197,Nexora announced a merger that could reshape the real estate sector.,Business & Finance,1
+198,A new study links daily walking to a lower risk of insomnia.,Health,2
+199,A field study tracked gene variant patterns over the past decade in climate science.,Science,2
+200,Investors are watching consumer spending closely ahead of the central bank meeting.,Business & Finance,3
+201,The new stage musical from studio Pinegrove topped the charts in its opening week.,Entertainment,2
+202,Astronomers detected a new gravitational signal using a space-based telescope.,Science,3
+203,A breakthrough in materials science could lead to practical uses for fossil record.,Science,2
+204,The state legislature signed an order addressing education funding concerns.,Politics,2
+205,Analysts raised their price target for Hartview Co citing strong consumer spending.,Business & Finance,3
+206,Reviewers say the browser improves accessibility but battery life suffers.,Technology,2
+207,Protesters gathered outside the senate committee to oppose the minimum wage plan.,Politics,1
+208,author R. Castillo announced a sequel to their hit streaming series.,Entertainment,1
+209,Hospitals report a shortage of staff trained to treat insomnia.,Health,2
+210,The latest cloud platform update adds AI-assisted battery suggestions.,Technology,3
+211,The regulatory board proposed changes to housing policy ahead of the election.,Politics,2
+212,A breakthrough in paleontology could lead to practical uses for microbial colony.,Science,1
+213,Veltrix announced a merger that could reshape the retail sector.,Business & Finance,1
+214,Doctors recommend daily walking as part of managing chronic fatigue.,Health,2
+215,The Summit Eagles secured a last-minute win over their Summit Eagles rivals.,Sports,1
+216,Developers are migrating to chip for better storage support.,Technology,3
+217,Hospitals report a shortage of staff trained to treat type 2 diabetes.,Health,2
+218,Bridgeline Corp is rolling out app to enterprise customers this quarter.,Technology,1
+219,A new study links a low-sodium diet to a lower risk of chronic fatigue.,Health,3
+220,A new poll shows shifting public opinion on healthcare reform in the western province.,Politics,1
+221,Fans were disappointed after the Valley Sharks lost to the Harbor City FC at home.,Technology,1
+222,The Union Stars signed Tyler Banks to a multi-year contract extension.,Sports,1
+223,A new study links strength training to a lower risk of seasonal flu.,Health,2
+224,Lawmakers debated a new immigration policy bill in a heated session.,Politics,2
+225,Local officials in Isla Verde are investing in national parks for visitors.,Travel,2
+226,A new guide highlights the best guided tours to experience in Lake Senna.,Travel,2
+227,The Coastal Titans coach defended the team's strategy after the loss to Coastal Titans.,Sports,1
+228,Funding for neuroscience research focused on exoplanet was increased this year.,Politics,1
+229,Researchers are testing a treatment for type 2 diabetes involving strength training.,Health,2
+230,A field study tracked fossil record patterns over the past decade in astrophysics.,Science,2
+231,Researchers are testing a treatment for insomnia involving reduced screen time.,Health,2
+232,A new poll shows shifting public opinion on housing policy in the border region.,Politics,1
+233,Injuries have forced the Riverside Hawks to rethink their lineup for the playoffs.,Sports,3
+234,A clinical trial found that a Mediterranean diet reduced symptoms of insomnia in adults.,Health,4
+235,A new guide highlights the best beachfront resorts to experience in Porto Vale.,Travel,2
+236,Northcairn is seeing a surge in tourism after new hiking trails were introduced.,Travel,2
+237,Funding for neuroscience research focused on ocean current pattern was increased this year.,Politics,1
+238,Protesters gathered outside the federal agency to oppose the tax policy plan.,Politics,1
+239,Veltrix is cutting jobs as it restructures around profit margins.,Business & Finance,2
+240,Injuries have forced the Summit Eagles to rethink their lineup for the playoffs.,Sports,3
+241,"Award nominations were announced, with showrunner Dana Webb's documentary leading the pack.",Entertainment,3
+242,Scientists say the atmospheric anomaly could change how we understand astrophysics.,Science,2
+243,A breakthrough in marine biology could lead to practical uses for mineral deposit.,Science,1
+244,Critics gave mixed reviews to author R. Castillo's latest film.,Entertainment,1
+245,The real estate industry saw record growth in operating costs last quarter.,Uncategorized,0
+246,Ticket sales surged ahead of the Harbor City FC versus Riverside Hawks championship game.,Sports,2
+247,Critics gave mixed reviews to producer Alex Kim's latest stage musical.,Entertainment,1
+248,Fans reacted to the surprise trailer for band The Hollow Pines's upcoming stage musical.,Entertainment,2
+249,The Coastal Titans signed Devon Price to a multi-year contract extension.,Sports,1
+250,Reviews praise Mount Arden's beachfront resorts as a top reason to visit.,Travel,2
+251,Reviews praise Bellamare's local food markets as a top reason to visit.,Travel,1
+252,Marrow Tech announced a merger that could reshape the retail sector.,Business & Finance,1
+253,The new browser from Marrow Tech promises faster security performance.,Technology,1
+254,Investors are watching export volume closely ahead of the central bank meeting.,Business & Finance,2
+255,The Northgate Wolves coach defended the team's strategy after the loss to Lakeside Bears.,Sports,1
+256,Scientists say the microbial colony could change how we understand paleontology.,Science,1
+257,The Harbor City FC signed Marcus Reed to a multi-year contract extension.,Sports,1
+258,Experts caution that more data is needed to confirm the ocean current pattern.,Uncategorized,0
+259,Local officials in Porto Vale are investing in historic landmarks for visitors.,Travel,1
+260,The new chip from Hartview Co promises faster voice recognition performance.,Technology,2
+261,Voters in the northern district will decide on a healthcare reform measure this fall.,Politics,1
+262,The Harbor City FC secured a last-minute win over their Union Stars rivals.,Sports,1
+263,Calderbrook introduced new rules affecting waterfront promenades for tourists.,Travel,1
+264,Negotiations over immigration policy stalled after disagreements between parties.,Politics,1
+265,The latest browser update adds AI-assisted data sync suggestions.,Technology,3
+266,Nutritionists explain how reduced screen time affects long-term type 2 diabetes risk.,Health,2
+267,Driftwood Bay introduced new rules affecting local food markets for tourists.,Uncategorized,0
+268,Hartview Co announced it will open-source its smartphone security toolkit.,Technology,2
+269,Porto Vale introduced new rules affecting hiking trails for tourists.,Travel,1
+270,Lawmakers debated a new tax policy bill in a heated session.,Politics,2
+271,Funding for neuroscience research focused on mineral deposit was increased this year.,Politics,1
+272,The retail industry saw record growth in export volume last quarter.,Uncategorized,0
+273,The new browser from Marrow Tech promises faster camera performance.,Technology,2
+274,Shares of Solara Systems fell after operating costs missed forecasts.,Business & Finance,2
+275,producer Alex Kim discussed the inspiration behind their new stage musical in an interview.,Entertainment,1
+276,A new study links reduced screen time to a lower risk of anxiety disorders.,Health,2
+277,Airlines added more routes to Calderbrook ahead of the busy season.,Travel,2
+278,The new wearable device from Nexora promises faster security performance.,Technology,1
+279,Negotiations over infrastructure spending stalled after disagreements between parties.,Politics,1
+280,Fans reacted to the surprise trailer for author R. Castillo's upcoming streaming series.,Entertainment,2
+281,The senate committee proposed changes to minimum wage ahead of the election.,Politics,1
+282,The latest chip update adds AI-assisted battery suggestions.,Technology,3
+283,director Maya Lin discussed the inspiration behind their new novel adaptation in an interview.,Entertainment,2
+284,The gene variant was confirmed by two independent research groups.,Science,2
+285,Lawmakers debated a new healthcare reform bill in a heated session.,Politics,2
+286,Lake Senna introduced new rules affecting historic landmarks for tourists.,Uncategorized,0
+287,A security researcher found a flaw in browser that affects voice recognition.,Technology,2
+288,Astronomers detected a new ocean current pattern using a space-based telescope.,Science,2
+289,A new poll shows shifting public opinion on education funding in the western province.,Politics,2
+290,The Lakeside Bears coach defended the team's strategy after the loss to Riverside Hawks.,Sports,1
+291,The soundtrack for studio Pinegrove's video game was released ahead of schedule.,Entertainment,3
+292,producer Alex Kim announced a sequel to their hit film.,Entertainment,1
+293,Reviews praise Porto Vale's museums as a top reason to visit.,Travel,2
+294,Public health officials warn that anxiety disorders cases are rising this season.,Health,1
+295,The state legislature proposed changes to tax policy ahead of the election.,Politics,2
+296,Fans were disappointed after the Summit Eagles lost to the Coastal Titans at home.,Technology,1
+297,Doctors recommend daily walking as part of managing type 2 diabetes.,Health,2
+298,The Coastal Titans coach defended the team's strategy after the loss to Valley Sharks.,Sports,1
+299,Critics gave mixed reviews to band The Hollow Pines's latest animated special.,Entertainment,1
+300,The latest app update adds AI-assisted battery suggestions.,Technology,3
+301,A new poll shows shifting public opinion on housing policy in the western province.,Politics,1
+302,The city council signed an order addressing climate regulations concerns.,Politics,1
+303,The mayor's office proposed changes to education funding ahead of the election.,Politics,2
+304,Investors are watching revenue closely ahead of the central bank meeting.,Business & Finance,3
+305,A team of researchers published findings on microbial colony in a peer-reviewed journal.,Science,2
+306,Isla Verde introduced new rules affecting guided tours for tourists.,Travel,2
+307,A field study tracked fossil record patterns over the past decade in genetics.,Science,2
+308,The manufacturing industry saw record growth in export volume last quarter.,Uncategorized,0
+309,The new video game from studio Pinegrove topped the charts in its opening week.,Entertainment,2
+310,Voters in the southern district will decide on a healthcare reform measure this fall.,Politics,1
+311,Analysts raised their price target for Quanta Labs citing strong profit margins.,Business & Finance,3
+312,Reviewers say the cloud platform improves voice recognition but battery life suffers.,Technology,3
+313,"Award nominations were announced, with singer Theo Banks's album leading the pack.",Entertainment,3
+314,Critics gave mixed reviews to singer Theo Banks's latest video game.,Entertainment,2
+315,The senate committee proposed changes to climate regulations ahead of the election.,Politics,1
+316,Voters in the central valley will decide on a infrastructure spending measure this fall.,Politics,1
+317,Devon Price was named player of the week following a standout performance.,Sports,1
+318,A field study tracked atmospheric anomaly patterns over the past decade in astrophysics.,Science,2
+319,Public health officials warn that heart disease cases are rising this season.,Health,1
+320,Analysts raised their price target for Northfield Inc citing strong stock buybacks.,Business & Finance,3
+321,Shares of Nexora fell after export volume missed forecasts.,Business & Finance,2
+322,Small businesses in the agriculture sector are struggling with rising costs.,Uncategorized,0
+323,Lake Senna introduced new rules affecting hiking trails for tourists.,Travel,1
+324,Veltrix announced a merger that could reshape the real estate sector.,Business & Finance,1
+325,The mayor's office proposed changes to immigration policy ahead of the election.,Politics,1
+326,Scientists say the ocean current pattern could change how we understand astrophysics.,Science,1
+327,The new animated special from comedian Greg Adler topped the charts in its opening week.,Entertainment,2
+328,The soundtrack for band The Hollow Pines's documentary was released ahead of schedule.,Entertainment,2
+329,Fans were disappointed after the Harbor City FC lost to the Lakeside Bears at home.,Technology,1
+330,Bridgeline Corp is cutting jobs as it restructures around consumer spending.,Business & Finance,2
+331,Reviews praise Lake Senna's beachfront resorts as a top reason to visit.,Travel,2
+332,A new poll shows shifting public opinion on infrastructure spending in the capital region.,Politics,1
+333,Researchers are testing a treatment for seasonal flu involving reduced screen time.,Health,2
+334,Analysts raised their price target for Bridgeline Corp citing strong profit margins.,Business & Finance,3
+335,The Riverside Hawks coach defended the team's strategy after the loss to Union Stars.,Sports,1
+336,Reviews praise Lake Senna's guided tours as a top reason to visit.,Travel,3
+337,A new study links a low-sodium diet to a lower risk of insomnia.,Health,3
+338,studio Pinegrove discussed the inspiration behind their new film in an interview.,Entertainment,2
+339,Budget travelers are choosing Bellamare for affordable beachfront resorts.,Travel,2
+340,Travelers are flocking to Isla Verde for its hiking trails.,Travel,2
+341,Budget travelers are choosing Calderbrook for affordable beachfront resorts.,Travel,2
+342,Funding for geology research focused on fossil record was increased this year.,Science,2
+343,Quanta Labs reported quarterly earnings that beat analyst expectations on operating costs.,Business & Finance,2
+344,studio Pinegrove discussed the inspiration behind their new animated special in an interview.,Entertainment,2
+345,The latest chip update adds AI-assisted security suggestions.,Technology,2
+346,Developers are migrating to wearable device for better storage support.,Technology,3
+347,The logistics industry saw record growth in revenue last quarter.,Business & Finance,1
+348,Ticket sales surged ahead of the Summit Eagles versus Lakeside Bears championship game.,Sports,2
+349,The animated special starring studio Pinegrove broke streaming records over the weekend.,Entertainment,3
+350,The microbial colony was confirmed by two independent research groups.,Science,1
+351,The Harbor City FC secured a last-minute win over their Summit Eagles rivals.,Sports,1
+352,A security researcher found a flaw in smartphone that affects battery.,Technology,2
+353,Nutritionists explain how reduced screen time affects long-term heart disease risk.,Health,2
+354,Engineers at Nexora unveiled a browser update focused on processing speed.,Technology,3
+355,Hospitals report a shortage of staff trained to treat heart disease.,Health,2
+356,Developers are migrating to cloud platform for better accessibility support.,Technology,2
+357,Analysts raised their price target for Solara Systems citing strong operating costs.,Business & Finance,2
+358,Protesters gathered outside the state legislature to oppose the healthcare reform plan.,Politics,2
+359,Ticket sales surged ahead of the Northgate Wolves versus Lakeside Bears championship game.,Sports,2
+360,Voters in the capital region will decide on a education funding measure this fall.,Politics,2
+361,Local officials in Porto Vale are investing in national parks for visitors.,Travel,2
+362,Funding for astrophysics research focused on exoplanet was increased this year.,Politics,1
+363,The Coastal Titans secured a last-minute win over their Lakeside Bears rivals.,Sports,1
+364,Negotiations over education funding stalled after disagreements between parties.,Politics,2
+365,Critics gave mixed reviews to producer Alex Kim's latest documentary.,Entertainment,1
+366,Fans reacted to the surprise trailer for band The Hollow Pines's upcoming video game.,Entertainment,2
+367,Airlines added more routes to Northcairn ahead of the busy season.,Travel,2
+368,A new study links regular exercise to a lower risk of seasonal flu.,Health,3
+369,Local officials in Porto Vale are investing in guided tours for visitors.,Travel,3
+370,A new poll shows shifting public opinion on education funding in the capital region.,Politics,2
+371,Solara Systems announced it will open-source its chip processing speed toolkit.,Technology,3
+372,Bridgeline Corp announced it will open-source its chip camera toolkit.,Technology,3
+373,The latest software suite update adds AI-assisted camera suggestions.,Technology,3
+374,The new novel adaptation from author R. Castillo topped the charts in its opening week.,Entertainment,1
+375,Doctors recommend intermittent fasting as part of managing joint pain.,Health,2
+376,Porto Vale is seeing a surge in tourism after new guided tours were introduced.,Travel,3
+377,The new software suite from Hartview Co promises faster data sync performance.,Technology,2
+378,Nutritionists explain how daily walking affects long-term type 2 diabetes risk.,Health,2
+379,Hospitals report a shortage of staff trained to treat chronic fatigue.,Health,2
+380,"Award nominations were announced, with director Maya Lin's streaming series leading the pack.",Entertainment,3
+381,Experts say reduced screen time alone is not enough to prevent high blood pressure.,Health,1
+382,Reviewers say the browser improves security but battery life suffers.,Technology,2
+383,A clinical trial found that daily walking reduced symptoms of anxiety disorders in adults.,Health,3
+384,The new wearable device from Hartview Co promises faster voice recognition performance.,Technology,2
+385,Experts caution that more data is needed to confirm the microbial colony.,Uncategorized,0
+386,The Valley Sharks coach defended the team's strategy after the loss to Northgate Wolves.,Sports,1
+387,Devon Price scored a career-high total in the Valley Sharks victory.,Sports,2
+388,A security researcher found a flaw in wearable device that affects camera.,Technology,2
+389,The Harbor City FC coach defended the team's strategy after the loss to Summit Eagles.,Sports,1
+390,Protesters gathered outside the state legislature to oppose the minimum wage plan.,Politics,2
+391,A field study tracked ocean current pattern patterns over the past decade in paleontology.,Health,1
+392,A team of researchers published findings on gravitational signal in a peer-reviewed journal.,Science,3
+393,Engineers at Hartview Co unveiled a wearable device update focused on processing speed.,Technology,3
+394,Hartview Co announced a merger that could reshape the manufacturing sector.,Business & Finance,1
+395,Reviewers say the software suite improves battery but battery life suffers.,Technology,2
+396,Officials clashed over funding for infrastructure spending during the budget hearing.,Politics,2
+397,The documentary starring studio Pinegrove broke streaming records over the weekend.,Entertainment,3
+398,Quanta Labs reported quarterly earnings that beat analyst expectations on consumer spending.,Business & Finance,3
+399,The atmospheric anomaly was confirmed by two independent research groups.,Science,2
+400,The state legislature signed an order addressing infrastructure spending concerns.,Politics,1
+401,Northfield Inc reported quarterly earnings that beat analyst expectations on operating costs.,Business & Finance,2
+402,Researchers are testing a treatment for anxiety disorders involving regular exercise.,Health,3
+403,Lawmakers debated a new infrastructure spending bill in a heated session.,Politics,2
+404,Officials clashed over funding for education funding during the budget hearing.,Politics,2
+405,The new cloud platform from Hartview Co promises faster security performance.,Technology,1
+406,Solara Systems announced it will open-source its laptop storage toolkit.,Technology,3
+407,The Lakeside Bears secured a last-minute win over their Riverside Hawks rivals.,Sports,1
+408,The Lakeside Bears secured a last-minute win over their Harbor City FC rivals.,Sports,1
+409,Funding for genetics research focused on gravitational signal was increased this year.,Science,2
+410,Small businesses in the logistics sector are struggling with rising costs.,Uncategorized,0
+411,The new wearable device from Nexora promises faster camera performance.,Technology,2
+412,band The Hollow Pines discussed the inspiration behind their new album in an interview.,Entertainment,1
+413,comedian Greg Adler announced a sequel to their hit stage musical.,Entertainment,2
+414,The automotive industry saw record growth in operating costs last quarter.,Uncategorized,0
+415,Negotiations over healthcare reform stalled after disagreements between parties.,Politics,1
+416,Budget travelers are choosing Isla Verde for affordable museums.,Travel,2
+417,The new laptop from Marrow Tech promises faster accessibility performance.,Technology,1
+418,Analysts raised their price target for Quanta Labs citing strong export volume.,Business & Finance,2
+419,"Award nominations were announced, with comedian Greg Adler's novel adaptation leading the pack.",Entertainment,3
+420,Funding for climate science research focused on fossil record was increased this year.,Science,2
+421,A clinical trial found that daily walking reduced symptoms of high blood pressure in adults.,Health,3
+422,Doctors recommend a low-sodium diet as part of managing type 2 diabetes.,Health,3
+423,The new film from director Maya Lin topped the charts in its opening week.,Entertainment,2
+424,A security researcher found a flaw in cloud platform that affects battery.,Technology,2
+425,Travelers are flocking to Porto Vale for its museums.,Travel,2
+426,Lawmakers debated a new housing policy bill in a heated session.,Politics,2
+427,Funding for geology research focused on microbial colony was increased this year.,Politics,1
+428,Reviewers say the app improves security but battery life suffers.,Technology,2
+429,The new wearable device from Marrow Tech promises faster security performance.,Technology,1
+430,Reviews praise Driftwood Bay's historic landmarks as a top reason to visit.,Travel,1
+431,Isla Verde introduced new rules affecting museums for tourists.,Travel,1
+432,Bridgeline Corp announced a merger that could reshape the agriculture sector.,Business & Finance,1
+433,A new guide highlights the best museums to experience in Isla Verde.,Travel,2
+434,Small businesses in the real estate sector are struggling with rising costs.,Uncategorized,0
+435,Budget travelers are choosing Calderbrook for affordable local food markets.,Travel,1
+436,Ticket sales surged ahead of the Summit Eagles versus Coastal Titans championship game.,Sports,2
+437,Veltrix is rolling out wearable device to enterprise customers this quarter.,Technology,1
+438,Voters in the western province will decide on a climate regulations measure this fall.,Politics,1
+439,Scientists say the microbial colony could change how we understand geology.,Science,1
+440,Nexora reported quarterly earnings that beat analyst expectations on stock buybacks.,Business & Finance,3
+441,Calderbrook is seeing a surge in tourism after new waterfront promenades were introduced.,Travel,2
+442,The governor's office proposed changes to education funding ahead of the election.,Politics,3
+443,Voters in the coastal counties will decide on a healthcare reform measure this fall.,Politics,1
+444,Developers are migrating to cloud platform for better battery support.,Technology,3
+445,Engineers at Nexora unveiled a wearable device update focused on voice recognition.,Technology,3
+446,A clinical trial found that a low-sodium diet reduced symptoms of insomnia in adults.,Health,4
+447,Travelers are flocking to Isla Verde for its guided tours.,Travel,3
+448,Critics gave mixed reviews to band The Hollow Pines's latest video game.,Entertainment,1
+449,A clinical trial found that strength training reduced symptoms of seasonal flu in adults.,Health,3
+450,The regulatory board signed an order addressing infrastructure spending concerns.,Politics,1
+451,comedian Greg Adler discussed the inspiration behind their new documentary in an interview.,Entertainment,2
+452,Officials clashed over funding for tax policy during the budget hearing.,Politics,2
+453,Lake Senna introduced new rules affecting waterfront promenades for tourists.,Travel,1
+454,director Maya Lin announced a sequel to their hit animated special.,Entertainment,2
+455,Funding for geology research focused on gene variant was increased this year.,Science,2
+456,A clinical trial found that intermittent fasting reduced symptoms of heart disease in adults.,Health,3
+457,Funding for materials science research focused on atmospheric anomaly was increased this year.,Science,2
+458,Investors are watching profit margins closely ahead of the central bank meeting.,Business & Finance,3
+459,The city council signed an order addressing housing policy concerns.,Politics,1
+460,Tyler Banks scored a career-high total in the Summit Eagles victory.,Sports,2
+461,Budget travelers are choosing Driftwood Bay for affordable national parks.,Travel,2
+462,studio Pinegrove announced a sequel to their hit album.,Entertainment,2
+463,Astronomers detected a new exoplanet using a space-based telescope.,Science,2
+464,Engineers at Bridgeline Corp unveiled a cloud platform update focused on accessibility.,Technology,2
+465,Experts caution that more data is needed to confirm the fossil record.,Science,1
+466,Veltrix announced it will open-source its app data sync toolkit.,Technology,3
+467,The soundtrack for director Maya Lin's streaming series was released ahead of schedule.,Entertainment,3
+468,Experts say a low-sodium diet alone is not enough to prevent chronic fatigue.,Health,2
+469,Experts say daily walking alone is not enough to prevent anxiety disorders.,Health,1
+470,The senate committee proposed changes to infrastructure spending ahead of the election.,Politics,1
+471,Researchers are testing a treatment for type 2 diabetes involving regular exercise.,Health,3
+472,The city council signed an order addressing healthcare reform concerns.,Politics,1
+473,Travelers are flocking to Mount Arden for its museums.,Travel,2
+474,Funding for marine biology research focused on atmospheric anomaly was increased this year.,Science,2
+475,A team of researchers published findings on atmospheric anomaly in a peer-reviewed journal.,Science,3
+476,Researchers are testing a treatment for seasonal flu involving intermittent fasting.,Health,2
+477,Nutritionists explain how regular exercise affects long-term joint pain risk.,Health,3
+478,Critics gave mixed reviews to showrunner Dana Webb's latest novel adaptation.,Entertainment,2
+479,Marrow Tech is cutting jobs as it restructures around operating costs.,Business & Finance,1
+480,Budget travelers are choosing Porto Vale for affordable guided tours.,Travel,3
+481,The automotive industry saw record growth in revenue last quarter.,Business & Finance,1
+482,A field study tracked atmospheric anomaly patterns over the past decade in paleontology.,Science,2
+483,Engineers at Northfield Inc unveiled a smartphone update focused on storage.,Technology,3
+484,Carlos Vega scored a career-high total in the Lakeside Bears victory.,Sports,2
+485,Lake Senna is seeing a surge in tourism after new beachfront resorts were introduced.,Travel,2
+486,Doctors recommend a low-sodium diet as part of managing chronic fatigue.,Health,3
+487,Local officials in Bellamare are investing in historic landmarks for visitors.,Travel,1
+488,Carlos Vega scored a career-high total in the Valley Sharks victory.,Sports,2
+489,Astronomers detected a new atmospheric anomaly using a space-based telescope.,Science,3
+490,Travelers are flocking to Bellamare for its waterfront promenades.,Travel,2
+491,The regulatory board signed an order addressing education funding concerns.,Politics,2
+492,Developers are migrating to cloud platform for better voice recognition support.,Technology,3
+493,Porto Vale is seeing a surge in tourism after new hiking trails were introduced.,Travel,2
+494,Nutritionists explain how a low-sodium diet affects long-term heart disease risk.,Health,3
+495,The Valley Sharks signed Tyler Banks to a multi-year contract extension.,Sports,1
+496,The real estate industry saw record growth in quarterly sales last quarter.,Business & Finance,1
+497,The Northgate Wolves signed Devon Price to a multi-year contract extension.,Sports,1
+498,Protesters gathered outside the state legislature to oppose the immigration policy plan.,Politics,2
+499,Local officials in Driftwood Bay are investing in historic landmarks for visitors.,Travel,1
+500,Engineers at Veltrix unveiled a software suite update focused on camera.,Technology,3
+501,"Award nominations were announced, with showrunner Dana Webb's streaming series leading the pack.",Entertainment,3
+502,Doctors recommend regular exercise as part of managing high blood pressure.,Health,3
+503,The hospitality industry saw record growth in operating costs last quarter.,Uncategorized,0
+504,Travelers are flocking to Driftwood Bay for its hiking trails.,Travel,2
+505,A new poll shows shifting public opinion on minimum wage in the border region.,Politics,1
+506,A breakthrough in astrophysics could lead to practical uses for atmospheric anomaly.,Science,2
+507,Engineers at Veltrix unveiled a cloud platform update focused on processing speed.,Technology,3
+508,Doctors recommend intermittent fasting as part of managing anxiety disorders.,Health,2
+509,A breakthrough in paleontology could lead to practical uses for mineral deposit.,Science,1
+510,Noah Fischer scored a career-high total in the Summit Eagles victory.,Sports,2
+511,Budget travelers are choosing Porto Vale for affordable hiking trails.,Travel,2
+512,The governor's office proposed changes to minimum wage ahead of the election.,Politics,2
+513,Nutritionists explain how better sleep habits affects long-term type 2 diabetes risk.,Health,3
+514,The Summit Eagles secured a last-minute win over their Lakeside Bears rivals.,Sports,1
+515,Ticket sales surged ahead of the Coastal Titans versus Union Stars championship game.,Sports,2
+516,Fans were disappointed after the Summit Eagles lost to the Lakeside Bears at home.,Technology,1
+517,A field study tracked ocean current pattern patterns over the past decade in materials science.,Health,1
+518,Officials clashed over funding for housing policy during the budget hearing.,Politics,2
+519,Nexora reported quarterly earnings that beat analyst expectations on operating costs.,Business & Finance,2
+520,The Lakeside Bears signed Noah Fischer to a multi-year contract extension.,Sports,1
+521,Hospitals report a shortage of staff trained to treat anxiety disorders.,Health,2
+522,Critics gave mixed reviews to singer Theo Banks's latest streaming series.,Entertainment,2
+523,Travelers are flocking to Porto Vale for its waterfront promenades.,Travel,2
+524,Ticket sales surged ahead of the Northgate Wolves versus Summit Eagles championship game.,Sports,2
+525,Budget travelers are choosing Porto Vale for affordable local food markets.,Travel,1
+526,A new guide highlights the best historic landmarks to experience in Calderbrook.,Travel,1
+527,Nexora is cutting jobs as it restructures around consumer spending.,Business & Finance,2
+528,Experts say better sleep habits alone is not enough to prevent heart disease.,Health,2
+529,A new guide highlights the best beachfront resorts to experience in Driftwood Bay.,Travel,2
+530,Astronomers detected a new fossil record using a space-based telescope.,Science,3
+531,The streaming series starring band The Hollow Pines broke streaming records over the weekend.,Entertainment,1
+532,A clinical trial found that regular exercise reduced symptoms of heart disease in adults.,Health,4
+533,Budget travelers are choosing Northcairn for affordable waterfront promenades.,Travel,2
+534,Marcus Reed was named player of the week following a standout performance.,Sports,1
+535,Analysts raised their price target for Marrow Tech citing strong stock buybacks.,Business & Finance,3
+536,band The Hollow Pines discussed the inspiration behind their new video game in an interview.,Entertainment,1
+537,The film starring director Maya Lin broke streaming records over the weekend.,Entertainment,3
+538,The Coastal Titans secured a last-minute win over their Coastal Titans rivals.,Sports,1
+539,Engineers at Hartview Co unveiled a cloud platform update focused on voice recognition.,Technology,3
+540,Quanta Labs is cutting jobs as it restructures around subscriber growth.,Business & Finance,2
+541,Sam Whitfield scored a career-high total in the Lakeside Bears victory.,Sports,2
+542,A breakthrough in geology could lead to practical uses for ocean current pattern.,Science,1
+543,A breakthrough in astrophysics could lead to practical uses for gene variant.,Science,2
+544,The Valley Sharks secured a last-minute win over their Valley Sharks rivals.,Sports,1
+545,Shares of Bridgeline Corp fell after quarterly sales missed forecasts.,Business & Finance,3
+546,The mineral deposit was confirmed by two independent research groups.,Science,1
+547,Shares of Hartview Co fell after revenue missed forecasts.,Business & Finance,3
+548,A team of researchers published findings on gene variant in a peer-reviewed journal.,Science,3
+549,Marrow Tech is cutting jobs as it restructures around profit margins.,Business & Finance,2
+550,Engineers at Solara Systems unveiled a app update focused on storage.,Technology,3
+551,Jamal Carter was named player of the week following a standout performance.,Sports,1
+552,The soundtrack for director Maya Lin's video game was released ahead of schedule.,Entertainment,3
+553,The logistics industry saw record growth in consumer spending last quarter.,Business & Finance,1
+554,The state legislature proposed changes to education funding ahead of the election.,Politics,3
+555,A new study links a low-sodium diet to a lower risk of joint pain.,Health,3
+556,A breakthrough in genetics could lead to practical uses for ocean current pattern.,Science,1
+557,Jamal Carter scored a career-high total in the Valley Sharks victory.,Sports,2
+558,"Award nominations were announced, with showrunner Dana Webb's novel adaptation leading the pack.",Entertainment,3
+559,showrunner Dana Webb announced a sequel to their hit streaming series.,Entertainment,2
+560,A field study tracked fossil record patterns over the past decade in materials science.,Science,2

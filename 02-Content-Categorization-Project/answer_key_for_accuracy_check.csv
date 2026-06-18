@@ -1,0 +1,561 @@
+sample_id,true_category
+1,Technology
+2,Business & Finance
+3,Science
+4,Politics
+5,Health
+6,Business & Finance
+7,Health
+8,Health
+9,Entertainment
+10,Science
+11,Science
+12,Travel
+13,Entertainment
+14,Business & Finance
+15,Health
+16,Technology
+17,Technology
+18,Sports
+19,Travel
+20,Sports
+21,Business & Finance
+22,Politics
+23,Entertainment
+24,Travel
+25,Health
+26,Travel
+27,Politics
+28,Travel
+29,Travel
+30,Health
+31,Travel
+32,Sports
+33,Technology
+34,Health
+35,Science
+36,Travel
+37,Health
+38,Politics
+39,Technology
+40,Health
+41,Travel
+42,Health
+43,Politics
+44,Entertainment
+45,Health
+46,Politics
+47,Science
+48,Entertainment
+49,Technology
+50,Politics
+51,Travel
+52,Technology
+53,Science
+54,Politics
+55,Sports
+56,Politics
+57,Business & Finance
+58,Travel
+59,Entertainment
+60,Health
+61,Entertainment
+62,Science
+63,Sports
+64,Science
+65,Health
+66,Technology
+67,Health
+68,Entertainment
+69,Business & Finance
+70,Entertainment
+71,Travel
+72,Technology
+73,Technology
+74,Business & Finance
+75,Entertainment
+76,Sports
+77,Sports
+78,Business & Finance
+79,Technology
+80,Travel
+81,Technology
+82,Politics
+83,Entertainment
+84,Business & Finance
+85,Technology
+86,Entertainment
+87,Science
+88,Technology
+89,Travel
+90,Travel
+91,Travel
+92,Entertainment
+93,Sports
+94,Politics
+95,Travel
+96,Business & Finance
+97,Science
+98,Entertainment
+99,Politics
+100,Sports
+101,Politics
+102,Health
+103,Health
+104,Science
+105,Business & Finance
+106,Entertainment
+107,Technology
+108,Science
+109,Sports
+110,Business & Finance
+111,Science
+112,Business & Finance
+113,Politics
+114,Sports
+115,Sports
+116,Health
+117,Sports
+118,Business & Finance
+119,Entertainment
+120,Sports
+121,Business & Finance
+122,Sports
+123,Politics
+124,Technology
+125,Sports
+126,Entertainment
+127,Sports
+128,Travel
+129,Science
+130,Entertainment
+131,Entertainment
+132,Technology
+133,Health
+134,Science
+135,Technology
+136,Sports
+137,Technology
+138,Health
+139,Health
+140,Business & Finance
+141,Business & Finance
+142,Business & Finance
+143,Sports
+144,Sports
+145,Travel
+146,Health
+147,Travel
+148,Business & Finance
+149,Health
+150,Sports
+151,Sports
+152,Entertainment
+153,Entertainment
+154,Health
+155,Science
+156,Science
+157,Science
+158,Technology
+159,Science
+160,Sports
+161,Politics
+162,Politics
+163,Sports
+164,Sports
+165,Business & Finance
+166,Technology
+167,Entertainment
+168,Travel
+169,Technology
+170,Business & Finance
+171,Business & Finance
+172,Politics
+173,Politics
+174,Technology
+175,Business & Finance
+176,Entertainment
+177,Entertainment
+178,Science
+179,Sports
+180,Business & Finance
+181,Entertainment
+182,Business & Finance
+183,Entertainment
+184,Health
+185,Health
+186,Technology
+187,Entertainment
+188,Travel
+189,Politics
+190,Science
+191,Science
+192,Science
+193,Business & Finance
+194,Politics
+195,Health
+196,Politics
+197,Business & Finance
+198,Health
+199,Science
+200,Business & Finance
+201,Entertainment
+202,Science
+203,Science
+204,Politics
+205,Business & Finance
+206,Technology
+207,Politics
+208,Entertainment
+209,Health
+210,Technology
+211,Politics
+212,Science
+213,Business & Finance
+214,Health
+215,Sports
+216,Technology
+217,Health
+218,Technology
+219,Health
+220,Politics
+221,Sports
+222,Sports
+223,Health
+224,Politics
+225,Travel
+226,Travel
+227,Sports
+228,Science
+229,Health
+230,Science
+231,Health
+232,Politics
+233,Sports
+234,Health
+235,Travel
+236,Travel
+237,Science
+238,Politics
+239,Business & Finance
+240,Sports
+241,Entertainment
+242,Science
+243,Science
+244,Entertainment
+245,Business & Finance
+246,Sports
+247,Entertainment
+248,Entertainment
+249,Sports
+250,Travel
+251,Travel
+252,Business & Finance
+253,Technology
+254,Business & Finance
+255,Sports
+256,Science
+257,Sports
+258,Science
+259,Travel
+260,Technology
+261,Politics
+262,Sports
+263,Travel
+264,Politics
+265,Technology
+266,Health
+267,Travel
+268,Technology
+269,Travel
+270,Politics
+271,Science
+272,Business & Finance
+273,Technology
+274,Business & Finance
+275,Entertainment
+276,Health
+277,Travel
+278,Technology
+279,Politics
+280,Entertainment
+281,Politics
+282,Technology
+283,Entertainment
+284,Science
+285,Politics
+286,Travel
+287,Technology
+288,Science
+289,Politics
+290,Sports
+291,Entertainment
+292,Entertainment
+293,Travel
+294,Health
+295,Politics
+296,Sports
+297,Health
+298,Sports
+299,Entertainment
+300,Technology
+301,Politics
+302,Politics
+303,Politics
+304,Business & Finance
+305,Science
+306,Travel
+307,Science
+308,Business & Finance
+309,Entertainment
+310,Politics
+311,Business & Finance
+312,Technology
+313,Entertainment
+314,Entertainment
+315,Politics
+316,Politics
+317,Sports
+318,Science
+319,Health
+320,Business & Finance
+321,Business & Finance
+322,Business & Finance
+323,Travel
+324,Business & Finance
+325,Politics
+326,Science
+327,Entertainment
+328,Entertainment
+329,Sports
+330,Business & Finance
+331,Travel
+332,Politics
+333,Health
+334,Business & Finance
+335,Sports
+336,Travel
+337,Health
+338,Entertainment
+339,Travel
+340,Travel
+341,Travel
+342,Science
+343,Business & Finance
+344,Entertainment
+345,Technology
+346,Technology
+347,Business & Finance
+348,Sports
+349,Entertainment
+350,Science
+351,Sports
+352,Technology
+353,Health
+354,Technology
+355,Health
+356,Technology
+357,Business & Finance
+358,Politics
+359,Sports
+360,Politics
+361,Travel
+362,Science
+363,Sports
+364,Politics
+365,Entertainment
+366,Entertainment
+367,Travel
+368,Health
+369,Travel
+370,Politics
+371,Technology
+372,Technology
+373,Technology
+374,Entertainment
+375,Health
+376,Travel
+377,Technology
+378,Health
+379,Health
+380,Entertainment
+381,Health
+382,Technology
+383,Health
+384,Technology
+385,Science
+386,Sports
+387,Sports
+388,Technology
+389,Sports
+390,Politics
+391,Science
+392,Science
+393,Technology
+394,Business & Finance
+395,Technology
+396,Politics
+397,Entertainment
+398,Business & Finance
+399,Science
+400,Politics
+401,Business & Finance
+402,Health
+403,Politics
+404,Politics
+405,Technology
+406,Technology
+407,Sports
+408,Sports
+409,Science
+410,Business & Finance
+411,Technology
+412,Entertainment
+413,Entertainment
+414,Business & Finance
+415,Politics
+416,Travel
+417,Technology
+418,Business & Finance
+419,Entertainment
+420,Science
+421,Health
+422,Health
+423,Entertainment
+424,Technology
+425,Travel
+426,Politics
+427,Science
+428,Technology
+429,Technology
+430,Travel
+431,Travel
+432,Business & Finance
+433,Travel
+434,Business & Finance
+435,Travel
+436,Sports
+437,Technology
+438,Politics
+439,Science
+440,Business & Finance
+441,Travel
+442,Politics
+443,Politics
+444,Technology
+445,Technology
+446,Health
+447,Travel
+448,Entertainment
+449,Health
+450,Politics
+451,Entertainment
+452,Politics
+453,Travel
+454,Entertainment
+455,Science
+456,Health
+457,Science
+458,Business & Finance
+459,Politics
+460,Sports
+461,Travel
+462,Entertainment
+463,Science
+464,Technology
+465,Science
+466,Technology
+467,Entertainment
+468,Health
+469,Health
+470,Politics
+471,Health
+472,Politics
+473,Travel
+474,Science
+475,Science
+476,Health
+477,Health
+478,Entertainment
+479,Business & Finance
+480,Travel
+481,Business & Finance
+482,Science
+483,Technology
+484,Sports
+485,Travel
+486,Health
+487,Travel
+488,Sports
+489,Science
+490,Travel
+491,Politics
+492,Technology
+493,Travel
+494,Health
+495,Sports
+496,Business & Finance
+497,Sports
+498,Politics
+499,Travel
+500,Technology
+501,Entertainment
+502,Health
+503,Business & Finance
+504,Travel
+505,Politics
+506,Science
+507,Technology
+508,Health
+509,Science
+510,Sports
+511,Travel
+512,Politics
+513,Health
+514,Sports
+515,Sports
+516,Sports
+517,Science
+518,Politics
+519,Business & Finance
+520,Sports
+521,Health
+522,Entertainment
+523,Travel
+524,Sports
+525,Travel
+526,Travel
+527,Business & Finance
+528,Health
+529,Travel
+530,Science
+531,Entertainment
+532,Health
+533,Travel
+534,Sports
+535,Business & Finance
+536,Entertainment
+537,Entertainment
+538,Sports
+539,Technology
+540,Business & Finance
+541,Sports
+542,Science
+543,Science
+544,Sports
+545,Business & Finance
+546,Science
+547,Business & Finance
+548,Science
+549,Business & Finance
+550,Technology
+551,Sports
+552,Entertainment
+553,Business & Finance
+554,Politics
+555,Health
+556,Science
+557,Sports
+558,Entertainment
+559,Entertainment
+560,Science
