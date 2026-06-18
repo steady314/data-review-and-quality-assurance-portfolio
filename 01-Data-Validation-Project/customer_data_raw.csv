@@ -1,0 +1,501 @@
+customer_id,full_name,email,phone,state,sign_up_date,purchase_amount
+40,Christopher Davis,christopher.davis@company.com,877.479.2129,CA,12-01-2024,412.94
+342,Sarah Thomas,sarah.thomas@gmail.com,374-161-5653,NC,9/2/2024,237.83
+458,Matthew Martinez,matthew.martinez@gmail.com,861-264-5201,OH,5/27/2023,83.48
+338,Charles Johnson,charles.johnson@hotmail.com,6926724245,OH,2024-03-25,106.09
+407,Patricia Martin,patricia.martin@company.com,(483) 154-4173,TX,2023-11-22,484.6
+126,Anthony Gonzalez,anthony.gonzalez@gmail.com,651-421-7861,OH,02/07/2024,211.08
+390,Sarah Davis,sarah.davis@hotmail.com,(659) 491-6172,NY,7/1/2024,322.34
+373,Jennifer Martin,jennifer.martin@hotmail.com,(930) 876-9740,PA,2023-06-27,55.53
+195,THOMAS LOPEZ,thomas.lopez@company.com,787-790-2889,ga,05/25/2022,430.76
+21,Lisa Moore,lisa.moore@yahoo.com,(717) 600-5114,NY,11/21/2022,416.38
+71,Linda Moore,linda.moore@company.com,8702019017,wa,05-12-2024,191.56
+164,JOHN MARTINEZ,john.martinez@hotmail.com,650-442-8055,WA,7/26/2024,474.17
+152,Sandra Moore,sandra.moore at company.com,(622) 240-4791,tx,11/02/2022,257.81
+426,Charles Jones,charles.jones@hotmail.com,342.794.2914,CA,12/16/2022,422.03
+262,Jennifer Taylor,jennifer.taylor@gmail.com,890.865.9747,OH,19-08-2024,266.14
+23,Charles Moore,charles.moore@outlook.com,8822056794,NC,2022-06-07,463.62
+293,Nancy Gonzalez,nancy.gonzalez@company.com,4594146641,TX,18-09-2023,333.05
+167,David Jones,david.jones@gmail.com,(747) 618-7853,IL,19-08-2024,408.03
+20,Mark Davis,mark.davis@company.com,(883) 936-5905,TX,11/17/2024,445.96
+273,Sarah Smith,sarah.smith at company.com,(496) 905-5937,WA,06/17/2022,224.46
+384,Mary Johnson,mary.johnson@gmail.com,(676) 629-2281,FL,2/5/2024,373.43
+239,John Miller,john.miller@hotmail.com,699.440.3897,ca,03/25/2024,144.03
+85,James Miller,james.miller@yahoo.com,709-864-8055,TX,06/04/2023,354.8
+451,John Lopez,john.lopez@gmail.com,6384536855,il,06/13/2024,129.67
+102,mark thomas,mark.thomas@company.com,201-729-6780,NC,10-03-2024,335.54
+421,Christopher Smith,christopher.smith@company.com,955.760.1351,FL,14-06-2023,437.18
+40,Christopher Davis,christopher.davis@company.com,877.479.2129,CA,12-01-2024,412.94
+4,Christopher Martin,christopher.martin@yahoo.com,(281) 975-4814,OH,11/8/2022,321.49
+376,Elizabeth Moore,elizabeth.moore@yahoo.com,2674484411,OH,16-03-2024,177.68
+181,Margaret Jones,margaret.jones@yahoo.com,7917475402,OH,2024-07-16,320.48
+470,James Taylor,james.taylor@hotmail.com,395.982.5361,PA,2023-02-08,221.34
+431,SARAH THOMAS,sarah.thomas@outlook.com,429-127-1040,WA,18-08-2023,323.87
+169,Lisa Taylor,lisa.taylor@yahoo.com,(553) 125-8909,WA,2023-08-25,481.25
+35,Matthew Gonzalez,matthew.gonzalez@hotmail.com,6993245471,pa,2024-09-26,174.7
+192,Sarah Moore,sarah.moore@outlook.com,600.700.2083,OH,3/18/2022,424.77
+215,William Williams,william.williams@yahoo.com,657-111-5345,FL,12/22/2022,181.74
+226,Patricia Brown,patricia.brown@outlook.com,(870) 597-8750,TX,09-07-2023,80.49
+146,Susan Wilson,susan.wilson@company.com,,GA,2022-05-28,200.33
+352,William Gonzalez,william.gonzalez@company.com,7332118399,CA,12/26/2024,130.4
+56,Joseph Thomas,joseph.thomas@company.com,765-517-2527,NY,03/10/2024,67.56
+289,Sandra Taylor,sandra.taylor@company.com,(744) 615-2925,PA,10/20/2023,
+475,John Thomas,john.thomas@outlook.com,729-420-8139,IL,5/20/2023,250.72
+50,Jennifer Smith,jennifer.smith@hotmail.com,(919) 980-8438,FL,5/23/2022,396.04
+128,Sarah Hernandez,sarah.hernandez@outlook.com,430-404-5735,PA,4/9/2022,180.91
+135,Patricia Garcia,patricia.garcia at yahoo.com,537.409.1187,IL,4/15/2023,40.44
+66,Matthew Johnson,matthew.johnson@outlook.com,424.751.4115,,10/26/2022,452.67
+266,Nancy Williams,nancy.williams@company.com,(333) 264-5178,IL,7/9/2022,469.37
+420,Daniel Williams,daniel.williams@gmail.com,368-382-2835,PA,05/03/2022,110.09
+427,joseph lopez,joseph.lopez@yahoo.com,(285) 651-8298,,05/07/2022,250.33
+411,Michael Lopez,michael.lopez at yahoo.com,3139728627,OH,2024-01-09,178.35
+46,Lisa Jackson,,383-409-1231,wa,5/8/2022,36.72
+141,Lisa Wilson,lisa.wilson@hotmail.com,(869) 980-6697,TX,2023-07-03,202.6
+416,joseph smith,joseph.smith@outlook.com,914-727-9887,,7/25/2023,174.49
+405,James Garcia,james.garcia@company.com,908-229-4377,WA,26-12-2023,211.9
+172,Jennifer Garcia,jennifer.garcia@gmail.com,598-104-4519,WA,19-08-2022,406.28
+143,LISA BROWN,lisa.brown@hotmail.com,3037081550,NC,04/07/2022,437.38
+180,Sarah Rodriguez,sarah.rodriguez@outlook.com,(338) 868-7743,WA,09/22/2023,72.18
+378,Karen Brown,karen.brown@hotmail.com,(422) 936-3276,TX,11/02/2024,231.96
+152,Sandra Moore,sandra.moore at company.com,(622) 240-4791,tx,11/02/2022,257.81
+212,Karen Miller,karen.miller@yahoo.com,(800) 821-3320,GA,2023-01-01,480.67
+343,James Williams,james.williams@outlook.com,(436) 489-9331,IL,28-05-2022,302.58
+179,Joseph Brown,joseph.brown@company.com,369-730-3281,FL,21-10-2024,289.34
+132,elizabeth hernandez,elizabeth.hernandez@gmail.com,(379) 527-3880,OH,09/24/2022,101.29
+305,Sarah Rodriguez,sarah.rodriguez@company.com,629.817.7099,OH,2022-08-14,98.15
+64,Charles Jones,charles.jones@hotmail.com,275.552.6661,OH,2022-08-10,233.85
+34,JOHN MILLER,john.miller@hotmail.com,6304981320,pa,2023-07-02,182.36
+158,Mark Moore,mark.moore@yahoo.com,254-200-8161,NY,12/3/2024,386.81
+163,JESSICA JONES,jessica.jones@hotmail.com,5693575040,NC,08/26/2023,234.35
+312,sandra thomas,sandra.thomas@hotmail.com,286.770.7387,FL,2022-02-09,149.25
+322,Barbara Johnson,barbara.johnson@gmail.com,4826982960,fl,2023-06-01,30.58
+48,anthony williams,,321-671-7818,GA,2024-05-03,
+401,Patricia Miller,patricia.miller@hotmail.com,2731373319,CA,2024-03-24,459.83
+123,John Miller,john.miller at gmail.com,731-567-3440,IL,11-12-2022,
+28,Lisa Martinez,lisa.martinez@outlook.com,630-780-7211,NC,2023-09-05,208.98
+404,David Jones,david.jones@outlook.com,336-202-7162,CA,04/19/2023,49.55
+291,Matthew Jackson,matthew.jackson@hotmail.com,(463) 293-1089,NC,20-05-2022,264.68
+294,Lisa Davis,lisa.davis@yahoo.com,763-728-1852,OH,7/26/2024,12.59
+154,Elizabeth Smith,elizabeth.smith@hotmail.com,,IL,2022-02-04,204.48
+400,charles davis,charles.davis@company.com,(216) 137-6558,IL,27-09-2023,
+444,Nancy Lopez,nancy.lopez@hotmail.com,3222467468,NC,08/17/2023,373.3
+255,Lisa Smith,lisa.smith@company.com,7206754389,IL,10/20/2022,36.59
+147,david miller,david.miller@hotmail.com,(252) 374-7179,NY,2022-09-24,383.23
+365,James Garcia,james.garcia@hotmail.com,359.742.8546,PA,05-11-2022,212.84
+13,Robert Taylor,robert.taylor@yahoo.com,4489038749,FL,19-10-2024,332.9
+116,Robert Taylor,robert.taylor@company.com,(777) 142-1464,CA,10/24/2024,387.8
+47,Elizabeth Jones,elizabeth.jones@gmail.com,(651) 448-4020,WA,16-05-2024,
+299,Anthony Jackson,anthony.jackson@hotmail.com,8975711448,NY,25-06-2022,197.51
+111,Richard Moore,richard.moore@hotmail.com,(404) 225-3223,PA,23-05-2024,359.55
+374,Betty Anderson,betty.anderson@hotmail.com,572.501.4004,IL,3/28/2022,24.83
+482,JENNIFER TAYLOR,jennifer.taylor@gmail.com,890.865.9747,OH,19-08-2024,266.14
+413,David Smith,david.smith@yahoo.com,(787) 105-7844,CA,2023-10-08,369.4
+283,jessica anderson,jessica.anderson@outlook.com,959-369-9918,OH,11/27/2024,189.0
+129,Sandra Rodriguez,sandra.rodriguez@company.com,(497) 143-5712,IL,2023-06-25,331.43
+49,Elizabeth Jackson,elizabeth.jackson@company.com,(840) 316-5335,TX,2024-02-25,280.48
+408,Jessica Thomas,jessica.thomas@gmail.com,(457) 442-8424,NY,07-05-2023,463.18
+468,David Garcia,david.garcia@outlook.com,(586) 954-4677,CA,06-06-2023,327.08
+307,Mark Taylor,mark.taylor@hotmail.com,(301) 807-3676,FL,02-10-2024,243.5
+329,James Miller,james.miller@gmail.com,577.913.1955,ga,12-01-2024,44.49
+144,Linda Johnson,linda.johnson@yahoo.com,439.935.6224,FL,3/17/2022,80.2
+229,Lisa Thomas,lisa.thomas@gmail.com,(338) 899-9589,TX,10-02-2022,418.14
+37,William Miller,william.miller@hotmail.com,(681) 119-9837,IL,05/27/2023,43.62
+120,Jessica Martinez,jessica.martinez@hotmail.com,2491515609,NC,4/19/2022,330.59
+313,Christopher Jones,christopher.jones at gmail.com,678.991.9856,GA,28-06-2023,485.08
+30,Nancy Martin,nancy.martin@yahoo.com,(247) 350-8784,PA,04/05/2022,318.59
+77,KAREN JONES,karen.jones@outlook.com,590.711.9692,PA,9/23/2024,220.8
+472,Robert Smith,robert.smith@hotmail.com,(953) 711-5198,NY,23-07-2024,35.54
+476,John Moore,john.moore@hotmail.com,236-581-5263,PA,2022-01-08,497.65
+283,jessica anderson,jessica.anderson@outlook.com,959-369-9918,OH,11/27/2024,189.0
+292,Richard Miller,richard.miller@outlook.com,4679759783,NC,11/19/2023,145.02
+187,Elizabeth Jones,elizabeth.jones@yahoo.com,8247653688,IL,03/03/2024,317.76
+409,Jennifer Garcia,jennifer.garcia@gmail.com,629-303-6336,NY,12/15/2022,58.05
+391,Margaret Wilson,margaret.wilson@outlook.com,672-891-4961,GA,09-02-2023,348.24
+318,David Martin,david.martin at yahoo.com,4883753048,CA,01/06/2024,83.84
+31,Michael Gonzalez,michael.gonzalez@gmail.com,(912) 630-8611,GA,2022-07-08,425.68
+272,ROBERT WILLIAMS,robert.williams@outlook.com,5975617626,il,09-04-2024,339.92
+362,Thomas Williams,thomas.williams@outlook.com,3327299132,PA,5/17/2023,443.0
+1,CHRISTOPHER BROWN,christopher.brown@outlook.com,(804) 532-1520,NY,12/04/2022,257.62
+460,Nancy Moore,nancy.moore@hotmail.com,(265) 516-6954,OH,2/11/2022,364.87
+25,Margaret Johnson,margaret.johnson@hotmail.com,(608) 436-5564,WA,2022-04-01,259.61
+188,John Wilson,john.wilson@yahoo.com,803.847.7291,OH,03/25/2022,78.52
+268,Jennifer Wilson,jennifer.wilson@outlook.com,5694004579,GA,11/11/2022,490.76
+127,Matthew Martin,matthew.martin@gmail.com,8785899609,IL,4/18/2024,235.24
+302,David Miller,david.miller@company.com,(828) 106-9871,PA,03-02-2022,164.55
+84,David Miller,david.miller@hotmail.com,(739) 783-6053,FL,19-11-2024,
+467,John Smith,john.smith@outlook.com,808.802.7722,PA,2022-03-08,370.23
+446,Betty Gonzalez,betty.gonzalez@hotmail.com,3102255107,PA,05-05-2024,471.78
+359,Christopher Moore,christopher.moore@yahoo.com,233.783.5889,ny,2024-06-02,214.31
+91,Joseph Jackson,joseph.jackson@gmail.com,819-587-9214,CA,11/7/2024,407.37
+278,SUSAN GARCIA,susan.garcia@yahoo.com,483-960-6889,IL,21-12-2024,236.8
+232,Michael Davis,michael.davis@outlook.com,(685) 235-3837,FL,01/28/2024,404.49
+436,Matthew Thomas,matthew.thomas@yahoo.com,(772) 728-9612,OH,2022-09-08,47.44
+29,Anthony Smith,anthony.smith@company.com,8913189375,TX,15-08-2023,149.06
+442,Richard Wilson,richard.wilson@gmail.com,732.239.9123,WA,02/15/2023,29.9
+461,John Davis,john.davis@gmail.com,292.343.3003,IL,09-09-2024,371.25
+219,Sarah Moore,sarah.moore@yahoo.com,(357) 155-6911,OH,18-10-2023,413.71
+285,Christopher Rodriguez,christopher.rodriguez@outlook.com,5388372856,PA,08-11-2022,299.49
+311,Lisa Jackson,lisa.jackson@yahoo.com,877-357-2311,TX,2022-03-24,56.82
+207,Karen Martin,karen.martin@hotmail.com,592-240-7868,GA,1/3/2023,497.1
+6,Christopher Moore,christopher.moore@gmail.com,267-316-6155,PA,6/13/2022,458.13
+459,James Davis,james.davis@hotmail.com,406-263-5468,CA,07/21/2023,403.73
+399,Michael Garcia,michael.garcia@yahoo.com,698-186-8175,tx,2/21/2023,22.43
+267,Mary Jones,mary.jones@company.com,274-902-6207,TX,8/26/2023,395.27
+80,Sarah Hernandez,sarah.hernandez@hotmail.com,560-206-9313,TX,1/10/2024,119.88
+340,Matthew Martinez,matthew.martinez@hotmail.com,404-801-7124,NY,2023-01-27,36.72
+484,KAREN MILLER,karen.miller@yahoo.com,(800) 821-3320,GA,2023-01-01,480.67
+279,Barbara Martinez,barbara.martinez@company.com,(469) 851-2252,CA,2023-03-18,319.5
+270,Sandra Taylor,,(528) 626-2349,TX,2022-05-21,388.93
+73,Robert Miller,robert.miller@gmail.com,270-949-4394,FL,2023-04-05,82.3
+139,Jessica Williams,jessica.williams@gmail.com,(772) 573-6049,OH,07/15/2024,11.48
+280,Anthony Jackson,anthony.jackson@yahoo.com,869.893.3435,OH,18-05-2024,388.35
+290,Sarah Smith,sarah.smith@hotmail.com,4349218899,IL,23-01-2023,373.28
+100,James Hernandez,james.hernandez@outlook.com,9129513273,PA,10-01-2022,453.87
+304,Margaret Garcia,margaret.garcia@company.com,588.694.2650,IL,2024-01-01,137.25
+347,Michael Jones,michael.jones@yahoo.com,640-888-3378,IL,2023-12-23,271.15
+191,JESSICA WILLIAMS,jessica.williams at gmail.com,7183939209,OH,02-01-2022,50.39
+199,Linda Moore,linda.moore@gmail.com,306-310-9680,OH,11/13/2022,39.35
+176,Karen Johnson,karen.johnson@hotmail.com,6188019056,PA,17-09-2023,50.51
+257,Betty Martinez,betty.martinez at gmail.com,309-360-4209,NY,05-08-2022,202.52
+168,Karen Williams,karen.williams@outlook.com,(970) 439-8052,CA,19-01-2024,118.78
+325,Daniel Anderson,daniel.anderson@hotmail.com,949-579-5510,NY,9/12/2022,230.2
+216,betty brown,betty.brown@hotmail.com,(559) 659-7149,PA,16-07-2022,293.25
+159,Karen Gonzalez,karen.gonzalez@outlook.com,766-484-8075,NC,8/8/2023,51.99
+160,Karen Martinez,karen.martinez@gmail.com,957.498.6188,NY,2023-12-26,472.05
+140,MICHAEL JACKSON,michael.jackson@hotmail.com,6831325703,TX,09/02/2022,385.26
+269,James Brown,james.brown@company.com,5909152857,WA,1/22/2022,148.59
+189,David Williams,david.williams@company.com,410-630-9348,OH,1/28/2024,36.74
+349,Matthew Martin,matthew.martin@company.com,567-181-8808,GA,04/22/2022,239.69
+438,John Davis,john.davis@gmail.com,975-541-1696,ny,01-02-2022,333.3
+363,linda martinez,linda.martinez@gmail.com,(830) 524-7783,IL,2022-12-28,404.96
+157,david moore,david.moore at outlook.com,278-406-3661,NC,05-10-2022,200.69
+288,Matthew Garcia,matthew.garcia@yahoo.com,435-487-7315,ny,08/20/2023,266.13
+72,Joseph Anderson,joseph.anderson@gmail.com,262-507-5520,NY,9/21/2023,413.85
+425,Richard Thomas,richard.thomas@outlook.com,8628225842,WA,9/17/2024,379.54
+457,Anthony Anderson,anthony.anderson@company.com,7343056968,TX,10/24/2023,375.75
+244,Richard Rodriguez,richard.rodriguez@company.com,2498062897,,02/21/2024,278.17
+277,William Lopez,william.lopez@gmail.com,661-436-6008,NC,11-04-2022,405.77
+142,John Davis,john.davis@outlook.com,435.353.8546,TX,14-09-2024,469.33
+209,BETTY RODRIGUEZ,betty.rodriguez@hotmail.com,453.772.4951,GA,04/06/2024,459.46
+196,JAMES DAVIS,james.davis@outlook.com,766-922-7870,IL,03/28/2022,458.77
+220,Christopher Martin,christopher.martin@yahoo.com,5159037512,PA,02/16/2023,139.85
+398,Daniel Thomas,daniel.thomas@outlook.com,(574) 647-6571,PA,07/02/2023,152.08
+351,MATTHEW MILLER,matthew.miller@hotmail.com,(452) 537-7633,NC,11-12-2023,196.38
+190,Mark Davis,mark.davis@hotmail.com,5242357337,IL,9/1/2022,94.66
+295,Robert Jones,robert.jones@gmail.com,941.493.7564,nc,06/03/2022,389.07
+259,Sarah Wilson,sarah.wilson@company.com,(948) 934-3103,OH,2022-12-19,307.02
+15,Susan Garcia,susan.garcia@gmail.com,295-871-4872,OH,02/02/2024,114.74
+334,charles jackson,charles.jackson@outlook.com,(438) 362-5920,NC,2023-06-19,459.76
+439,Charles Johnson,charles.johnson@gmail.com,326-716-4365,TX,01/25/2024,24.34
+165,Michael Thomas,michael.thomas@outlook.com,5334855592,IL,2024-11-16,286.29
+170,Patricia Jones,patricia.jones@yahoo.com,939.813.8412,NY,04-08-2023,406.99
+298,Karen Miller,karen.miller@gmail.com,(715) 401-6570,GA,09/04/2023,439.3
+101,James Rodriguez,james.rodriguez@company.com,3241484906,NC,5/8/2022,64.32
+16,richard johnson,richard.johnson@hotmail.com,358-294-5861,CA,14-05-2023,275.68
+112,Robert Hernandez,robert.hernandez@company.com,(570) 620-4673,FL,2023-03-23,126.0
+480,karen smith,karen.smith@company.com,416.983.1797,IL,2023-12-24,374.46
+324,Betty Brown,betty.brown@company.com,221.805.7189,TX,2023-08-24,29.35
+261,Thomas Martinez,thomas.martinez@outlook.com,414.739.5760,TX,2024-11-07,328.54
+87,Elizabeth Brown,elizabeth.brown@yahoo.com,290-547-2734,OH,8/27/2024,266.74
+234,Elizabeth Brown,elizabeth.brown@outlook.com,392-253-9475,CA,5/21/2023,403.16
+18,Linda Jackson,linda.jackson@hotmail.com,409-785-6147,WA,9/11/2024,339.13
+211,Charles Miller,charles.miller@hotmail.com,(257) 338-4584,GA,08/02/2022,172.55
+385,Nancy Williams,nancy.williams@company.com,6805649399,NC,06/18/2022,216.3
+478,Jennifer Garcia,jennifer.garcia@company.com,7388853958,NY,04/19/2024,254.07
+198,James Lopez,james.lopez@outlook.com,991-894-4201,tx,12-08-2022,210.92
+38,Christopher Johnson,christopher.johnson@yahoo.com,684-785-2874,PA,2024-03-08,385.78
+114,Charles Williams,charles.williams@gmail.com,998-664-3981,OH,2024-09-12,435.42
+419,SUSAN RODRIGUEZ,susan.rodriguez@outlook.com,681.826.9714,PA,09/17/2023,401.95
+389,Joseph Garcia,joseph.garcia@outlook.com,675.508.8802,PA,2023-02-02,378.69
+281,Lisa Martinez,lisa.martinez@gmail.com,828-800-3717,PA,2024-01-22,
+204,James Gonzalez,james.gonzalez@company.com,324-112-2010,TX,2023-02-26,206.29
+282,Charles Jones,charles.jones at outlook.com,578-339-1701,GA,4/3/2023,187.01
+118,Joseph Wilson,joseph.wilson@company.com,(608) 233-7070,IL,6/24/2024,70.04
+105,JENNIFER JONES,jennifer.jones at hotmail.com,2424236080,GA,2022-01-26,27.94
+477,SANDRA THOMAS,sandra.thomas@outlook.com,(315) 966-3425,IL,15-08-2024,
+110,John Anderson,john.anderson@gmail.com,(865) 385-5089,CA,6/13/2024,254.53
+206,Sandra Jackson,sandra.jackson at hotmail.com,419.291.5505,PA,7/6/2024,26.98
+251,Karen Smith,karen.smith@yahoo.com,247.164.5286,CA,14-02-2023,
+287,Richard Martin,richard.martin@outlook.com,6932744594,NC,20-08-2022,295.5
+128,Sarah Hernandez,sarah.hernandez@outlook.com,430-404-5735,PA,4/9/2022,180.91
+326,Anthony Rodriguez,anthony.rodriguez@company.com,994.735.4912,NY,1/20/2022,274.09
+466,Anthony Garcia,anthony.garcia@outlook.com,(664) 811-1448,TX,9/24/2024,397.6
+452,Linda Martinez,linda.martinez@gmail.com,7514331612,OH,06/06/2022,451.69
+193,Mary Davis,mary.davis@hotmail.com,(322) 112-3248,TX,2022-05-22,179.89
+39,Jennifer Martin,jennifer.martin@gmail.com,5196897149,FL,05/04/2022,348.4
+433,Jessica Jackson,jessica.jackson@hotmail.com,465-266-1958,IL,06/17/2022,349.71
+377,Daniel Davis,daniel.davis@company.com,5336682599,,20-10-2022,208.84
+350,Christopher Lopez,christopher.lopez@hotmail.com,9821155421,FL,02-04-2022,494.24
+93,MARY HERNANDEZ,mary.hernandez@gmail.com,541.183.3317,WA,2023-05-09,352.26
+246,Elizabeth Brown,elizabeth.brown@company.com,920-519-5839,CA,9/7/2023,456.07
+194,Thomas Rodriguez,thomas.rodriguez@outlook.com,478.636.2046,NC,11-01-2022,253.11
+369,Margaret Taylor,margaret.taylor@gmail.com,9411378526,GA,2024-11-05,162.38
+462,Betty Davis,betty.davis@gmail.com,803.157.9034,NY,8/14/2023,217.65
+69,Richard Moore,richard.moore@gmail.com,(798) 490-7086,FL,8/12/2022,313.58
+268,Jennifer Wilson,jennifer.wilson@outlook.com,5694004579,GA,11/11/2022,490.76
+44,Daniel Thomas,daniel.thomas@gmail.com,5137797046,GA,2022-07-23,218.5
+486,PATRICIA THOMAS,patricia.thomas@company.com,,oh,2024-02-16,428.58
+74,MARK MARTIN,mark.martin@yahoo.com,312-776-1422,CA,2024-05-26,396.33
+445,MARK GARCIA,mark.garcia@yahoo.com,634.842.9177,NC,2024-07-04,380.59
+122,Elizabeth Williams,elizabeth.williams@company.com,331.199.7453,IL,11/20/2024,189.15
+440,John Rodriguez,john.rodriguez@yahoo.com,301-939-1229,FL,10/08/2024,94.17
+341,Karen Jones,karen.jones@gmail.com,223-439-4424,FL,15-05-2022,377.67
+63,Mary Hernandez,mary.hernandez@outlook.com,3742792293,NC,2022-09-14,253.86
+2,James Moore,james.moore@company.com,9779253615,IL,10/09/2023,115.5
+443,William Thomas,william.thomas@company.com,497-975-8011,NY,08-08-2024,403.19
+197,William Rodriguez,william.rodriguez@gmail.com,610.170.8620,WA,03/08/2022,281.01
+315,david jones,david.jones@yahoo.com,,OH,01-09-2023,302.53
+327,Richard Miller,richard.miller@company.com,(313) 198-9572,CA,6/14/2023,73.59
+368,Joseph Martinez,joseph.martinez@gmail.com,718-125-8907,FL,03-04-2022,246.9
+218,Robert Hernandez,robert.hernandez@hotmail.com,360.154.2659,FL,06-11-2023,210.55
+441,MATTHEW MOORE,matthew.moore@gmail.com,9147034033,NY,12/16/2024,183.86
+36,Nancy Gonzalez,nancy.gonzalez@yahoo.com,285-758-8022,PA,01/13/2024,137.48
+210,Mary Davis,mary.davis@hotmail.com,(955) 814-6878,IL,3/8/2022,286.17
+265,nancy hernandez,nancy.hernandez@outlook.com,973-702-9955,FL,4/21/2023,96.94
+219,Sarah Moore,sarah.moore@yahoo.com,(357) 155-6911,OH,18-10-2023,413.71
+166,Charles Moore,charles.moore@gmail.com,4989512133,PA,07-12-2023,158.39
+392,Jennifer Hernandez,jennifer.hernandez at gmail.com,559.324.5641,fl,04-09-2022,313.5
+51,Christopher Jackson,christopher.jackson@hotmail.com,345-173-1977,WA,11/5/2022,413.88
+256,Linda Anderson,linda.anderson@company.com,(316) 199-4633,IL,23-06-2024,320.49
+227,KAREN GONZALEZ,karen.gonzalez@outlook.com,581.120.6535,WA,12/16/2022,250.89
+150,michael lopez,michael.lopez@yahoo.com,502.256.4214,FL,18-05-2022,418.35
+308,Christopher Brown,christopher.brown@outlook.com,621-224-6752,NC,05/12/2024,328.07
+186,THOMAS ANDERSON,thomas.anderson@outlook.com,(272) 334-7276,NY,05-12-2023,190.11
+106,Christopher Miller,christopher.miller@gmail.com,6475098204,IL,5/4/2023,253.14
+61,John Wilson,john.wilson@gmail.com,8651826383,IL,20-06-2023,444.84
+393,Mary Martin,mary.martin@company.com,(584) 772-4027,TX,2024-02-03,238.81
+275,Mary Smith,mary.smith@company.com,416-522-9397,TX,4/24/2023,312.27
+328,Margaret Johnson,margaret.johnson at gmail.com,(738) 738-5193,IL,22-07-2024,361.74
+22,Mary Smith,mary.smith@outlook.com,(774) 109-2832,TX,23-09-2023,418.95
+375,Jessica Brown,jessica.brown@yahoo.com,(720) 205-7646,IL,2023-10-19,44.75
+453,David Smith,david.smith@outlook.com,700.202.4373,PA,06/19/2023,384.8
+57,Anthony Jones,anthony.jones@company.com,6676643369,FL,2023-08-16,259.04
+235,Karen Gonzalez,karen.gonzalez@gmail.com,597-854-1578,IL,14-05-2023,118.96
+330,Elizabeth Williams,elizabeth.williams@gmail.com,397-638-5075,GA,2022-09-13,213.44
+26,nancy moore,nancy.moore@outlook.com,5538466139,NC,04-01-2023,66.67
+54,William Brown,william.brown@hotmail.com,290.422.5135,NY,02-09-2023,208.05
+264,Anthony Anderson,anthony.anderson@company.com,(443) 623-5712,OH,18-11-2024,478.78
+78,Betty Brown,betty.brown@company.com,6234478430,OH,2022-07-15,163.15
+137,Joseph Martin,joseph.martin@hotmail.com,8968722341,GA,2024-04-25,48.27
+431,SARAH THOMAS,sarah.thomas@outlook.com,429-127-1040,WA,18-08-2023,323.87
+485,ELIZABETH JACKSON,elizabeth.jackson@company.com,(840) 316-5335,TX,2024-02-25,280.48
+465,Sandra Anderson,sandra.anderson@hotmail.com,682.854.7765,OH,27-02-2023,
+456,Nancy Moore,nancy.moore@outlook.com,219-742-9457,NC,2023-11-25,333.8
+463,Nancy Davis,nancy.davis@yahoo.com,,FL,6/27/2024,198.5
+115,Anthony Brown,anthony.brown@yahoo.com,280.356.4216,TX,4/12/2024,311.07
+62,JESSICA MOORE,jessica.moore@gmail.com,6442002646,,05/08/2024,452.68
+117,David Miller,david.miller@gmail.com,694.350.7653,PA,9/10/2024,39.36
+470,James Taylor,james.taylor@hotmail.com,395.982.5361,PA,2023-02-08,221.34
+221,Christopher Moore,christopher.moore@hotmail.com,676.369.4706,NC,09-01-2023,378.6
+173,Robert Jackson,robert.jackson@yahoo.com,886.983.9019,NC,8/4/2022,202.35
+358,jessica thomas,jessica.thomas@hotmail.com,(619) 552-2300,FL,16-11-2024,146.28
+17,LISA HERNANDEZ,lisa.hernandez@company.com,390-170-2113,OH,03/02/2024,446.24
+263,James Gonzalez,james.gonzalez@yahoo.com,,,5/22/2022,25.83
+90,Christopher Martinez,christopher.martinez@outlook.com,(258) 477-5703,NY,08/15/2023,258.46
+82,Sandra Hernandez,sandra.hernandez@yahoo.com,293-864-9691,OH,02/05/2023,177.04
+183,Richard Miller,richard.miller@hotmail.com,779.972.8951,ca,2023-06-18,316.83
+134,Jennifer Anderson,jennifer.anderson@gmail.com,3797257643,GA,2023-10-22,206.41
+184,ANTHONY ANDERSON,,865.409.3604,NY,2022-07-07,132.69
+353,sarah gonzalez,sarah.gonzalez@hotmail.com,650.507.5989,PA,1/7/2024,154.27
+25,Margaret Johnson,margaret.johnson@hotmail.com,(608) 436-5564,WA,2022-04-01,259.61
+286,CHRISTOPHER WILSON,christopher.wilson@gmail.com,786-250-1916,WA,03/05/2024,263.15
+424,Charles Jones,charles.jones@yahoo.com,351-481-8347,GA,11/11/2022,461.01
+121,Jessica Martinez,jessica.martinez@hotmail.com,(574) 146-7563,NC,12-12-2023,187.64
+434,BARBARA GARCIA,barbara.garcia@outlook.com,742-754-2258,TX,1/10/2023,303.39
+253,John Moore,john.moore@gmail.com,(707) 990-3709,PA,28-09-2022,172.14
+473,Sandra Davis,sandra.davis@company.com,2053599266,WA,12/24/2024,338.92
+52,Sandra Martinez,sandra.martinez@outlook.com,6481821653,IL,18-09-2023,22.67
+252,Matthew Jackson,matthew.jackson@outlook.com,6437775072,IL,12/20/2024,
+81,Patricia Lopez,patricia.lopez@outlook.com,(823) 773-5381,TX,09/25/2023,383.58
+103,robert taylor,robert.taylor@company.com,681.144.7338,WA,01-09-2024,184.98
+89,Jennifer Martin,jennifer.martin@gmail.com,897.678.6295,TX,15-08-2024,239.77
+67,Christopher Johnson,christopher.johnson@company.com,965-525-3877,TX,2/10/2022,439.47
+248,joseph martinez,joseph.martinez@yahoo.com,(636) 856-2898,ca,6/26/2023,77.81
+402,Mary Davis,mary.davis@yahoo.com,(805) 165-2742,PA,2023-02-15,311.66
+145,Nancy Taylor,nancy.taylor@gmail.com,769.607.1768,OH,06-12-2024,166.18
+107,Jessica Lopez,jessica.lopez@gmail.com,(758) 400-6262,NY,2022-07-20,154.86
+335,Lisa Williams,lisa.williams@yahoo.com,(809) 757-5921,NC,12/19/2024,392.26
+387,Elizabeth Thomas,elizabeth.thomas@outlook.com,214-859-2827,NC,5/9/2024,332.99
+430,margaret taylor,margaret.taylor@company.com,624-279-8571,FL,1/14/2022,197.07
+428,karen martin,karen.martin@outlook.com,581.112.5663,IL,12-07-2024,228.33
+200,John Rodriguez,john.rodriguez@company.com,794-197-9280,OH,08/24/2023,288.23
+381,Christopher Hernandez,christopher.hernandez@hotmail.com,392.668.7301,OH,2024-03-16,498.75
+68,Barbara Taylor,barbara.taylor@yahoo.com,317-579-2233,FL,5/24/2023,364.87
+240,Matthew Garcia,matthew.garcia@gmail.com,(639) 588-7280,CA,14-11-2023,368.02
+437,Anthony Jones,anthony.jones@outlook.com,,NY,8/20/2022,429.84
+174,Patricia Lopez,patricia.lopez@yahoo.com,(888) 237-6131,FL,05/20/2024,99.69
+474,JOHN MOORE,john.moore@yahoo.com,3351916198,TX,11-08-2024,163.5
+113,Jessica Smith,jessica.smith@hotmail.com,2674167523,GA,03/20/2024,210.62
+260,William Taylor,william.taylor@company.com,501-563-3185,OH,5/13/2022,444.35
+356,Robert Taylor,robert.taylor@company.com,244.886.3799,NC,18-07-2022,432.71
+225,Margaret Rodriguez,margaret.rodriguez@gmail.com,315-524-3451,NC,17-10-2024,381.6
+177,James Davis,james.davis@company.com,(762) 623-2854,WA,24-10-2023,413.41
+241,James Hernandez,james.hernandez@gmail.com,910.998.6641,TX,2024-12-08,256.63
+99,Joseph Taylor,joseph.taylor@yahoo.com,605-614-7126,OH,01/14/2023,193.71
+148,Lisa Moore,lisa.moore@outlook.com,964-872-8846,NC,04/07/2022,204.35
+83,Barbara Martinez,barbara.martinez@company.com,8901835458,OH,03/06/2022,226.6
+386,betty martinez,betty.martinez@company.com,(844) 584-3770,WA,10/09/2024,315.92
+406,Jennifer Martin,jennifer.martin@hotmail.com,556-528-1074,FL,11/27/2022,269.8
+230,Anthony Johnson,anthony.johnson@outlook.com,(717) 506-3029,FL,27-06-2023,301.08
+178,barbara moore,barbara.moore@hotmail.com,5049951528,WA,2023-02-24,410.2
+331,Patricia Jackson,patricia.jackson@hotmail.com,7164453591,IL,18-03-2022,279.54
+319,Jessica Miller,jessica.miller@hotmail.com,(538) 182-3393,WA,12/26/2023,44.98
+370,Mary Martin,mary.martin@gmail.com,791-876-6114,IL,12/10/2024,150.42
+481,JOSEPH THOMAS,joseph.thomas@company.com,765-517-2527,NY,03/10/2024,67.56
+397,Mary Gonzalez,mary.gonzalez@hotmail.com,(689) 546-7617,GA,25-12-2024,198.37
+479,PATRICIA HERNANDEZ,patricia.hernandez@gmail.com,3571292328,PA,2/27/2024,478.05
+332,William Lopez,william.lopez@outlook.com,,PA,07-09-2024,204.57
+138,CHARLES BROWN,charles.brown@company.com,3684359525,NY,2022-10-18,361.29
+33,Christopher Rodriguez,christopher.rodriguez@yahoo.com,(478) 443-6238,TX,2022-12-10,197.69
+367,Sarah Garcia,sarah.garcia@company.com,9261325448,NY,12/28/2023,126.44
+162,WILLIAM GONZALEZ,william.gonzalez@hotmail.com,7856333778,TX,2022-12-18,157.55
+296,Jennifer Thomas,jennifer.thomas@company.com,829.273.1590,FL,2022-10-17,488.07
+396,Christopher Brown,christopher.brown at gmail.com,9955561307,TX,10/24/2022,10.43
+450,Sarah Moore,sarah.moore@yahoo.com,831.792.6779,IL,16-05-2023,299.33
+271,Sarah Smith,sarah.smith@yahoo.com,862-936-2181,CA,07-02-2023,172.54
+32,Joseph Jones,joseph.jones@company.com,7615563607,PA,27-10-2023,131.15
+119,joseph davis,joseph.davis@hotmail.com,535-691-6123,TX,2023-04-28,262.22
+364,Michael Smith,michael.smith@outlook.com,985.106.2865,IL,5/17/2023,288.77
+348,Lisa Brown,lisa.brown@yahoo.com,653-863-5485,FL,7/14/2023,100.53
+314,Daniel Moore,daniel.moore@company.com,555-593-9841,NY,11/18/2024,189.23
+303,Mark Jackson,mark.jackson@company.com,7389187933,ga,10/05/2022,180.17
+263,James Gonzalez,james.gonzalez@yahoo.com,,,5/22/2022,25.83
+471,Michael Martin,michael.martin@yahoo.com,468-341-8388,IL,3/1/2023,327.15
+205,Nancy Williams,nancy.williams at gmail.com,(331) 194-6432,CA,21-04-2022,34.81
+435,Jennifer Moore,jennifer.moore@outlook.com,747-693-6761,CA,12/12/2024,147.89
+19,Elizabeth Anderson,elizabeth.anderson at gmail.com,750.318.9288,TX,10/04/2024,441.62
+149,Linda Moore,linda.moore@hotmail.com,(725) 609-8635,PA,5/9/2023,
+284,Christopher Williams,christopher.williams@yahoo.com,818-106-9222,PA,16-06-2023,47.77
+306,John Jackson,john.jackson@outlook.com,4002493450,CA,28-07-2024,254.8
+297,Robert Rodriguez,robert.rodriguez@hotmail.com,292.662.5661,IL,09/01/2022,145.49
+254,David Johnson,david.johnson@hotmail.com,7865582442,PA,15-02-2022,490.53
+213,Barbara Gonzalez,barbara.gonzalez@outlook.com,864.424.3854,FL,14-12-2022,409.08
+222,Nancy Brown,nancy.brown@company.com,5969389561,GA,04/18/2024,468.82
+366,Lisa Johnson,lisa.johnson@outlook.com,562.167.3446,CA,4/19/2022,193.87
+323,Betty Thomas,betty.thomas@gmail.com,(977) 740-1983,IL,2/22/2023,353.65
+53,linda jackson,linda.jackson@outlook.com,4842858141,NY,17-08-2022,210.09
+5,Barbara Garcia,barbara.garcia@outlook.com,746-846-5010,PA,2024-11-03,494.87
+171,Patricia Smith,patricia.smith@yahoo.com,7652636422,PA,2024-04-17,208.47
+27,mark jackson,mark.jackson at hotmail.com,572.541.2146,NC,2024-11-24,425.53
+201,Susan Jones,susan.jones@outlook.com,525-563-5455,NY,12/27/2023,76.69
+488,MARGARET TAYLOR,margaret.taylor@gmail.com,9411378526,GA,2024-11-05,162.38
+151,Jessica Moore,jessica.moore@outlook.com,671-272-6770,TX,21-12-2023,249.27
+104,Robert Lopez,robert.lopez@gmail.com,560-659-6546,PA,06/05/2024,244.48
+125,Charles Martinez,charles.martinez@gmail.com,938-152-8871,GA,2023-11-26,313.67
+483,ROBERT HERNANDEZ,robert.hernandez@hotmail.com,360.154.2659,FL,06-11-2023,210.55
+469,Christopher Davis,christopher.davis@yahoo.com,(814) 366-3445,IL,13-01-2022,287.95
+11,Sarah Jones,sarah.jones@company.com,752.873.4295,OH,2024-10-14,328.44
+242,ELIZABETH GARCIA,elizabeth.garcia@gmail.com,644.803.3192,PA,8/24/2023,102.33
+249,Christopher Garcia,christopher.garcia@company.com,3872167566,PA,2/12/2024,199.0
+228,Daniel Brown,daniel.brown@outlook.com,819-761-2462,PA,09-06-2023,413.75
+360,Jennifer Garcia,jennifer.garcia@company.com,236.195.5903,IL,3/15/2024,411.93
+379,Elizabeth Gonzalez,elizabeth.gonzalez@yahoo.com,(645) 835-6640,nc,5/19/2023,493.35
+79,William Rodriguez,william.rodriguez@hotmail.com,962-856-7105,ga,02/14/2022,478.75
+86,Thomas Moore,thomas.moore@gmail.com,6701796129,NC,01/14/2024,323.67
+455,Lisa Williams,lisa.williams@company.com,(637) 314-6690,WA,26-10-2022,156.96
+12,Joseph Taylor,joseph.taylor@gmail.com,207-172-1964,NY,2024-09-08,431.22
+217,matthew davis,matthew.davis@gmail.com,550-274-7151,NY,05/04/2023,450.08
+243,SANDRA GONZALEZ,sandra.gonzalez@yahoo.com,(803) 616-3768,IL,04/24/2022,398.14
+76,thomas davis,thomas.davis@company.com,6115362768,PA,02-01-2024,49.59
+238,PATRICIA THOMAS,patricia.thomas@company.com,,oh,2024-02-16,428.58
+395,Mary Rodriguez,mary.rodriguez@hotmail.com,860-603-2776,GA,2022-10-13,117.01
+423,barbara martinez,barbara.martinez@outlook.com,386-279-3514,FL,10/6/2022,496.95
+422,Linda Taylor,linda.taylor@outlook.com,668.411.3161,TX,19-08-2023,121.12
+418,Sarah Miller,sarah.miller@company.com,971.862.4693,IL,2023-12-25,256.75
+276,David Miller,david.miller@company.com,497.787.2103,NY,08/21/2024,294.49
+321,Thomas Miller,thomas.miller@outlook.com,(962) 662-9534,WA,11/24/2022,156.42
+224,John Johnson,,(527) 844-2097,OH,3/27/2024,280.51
+124,Richard Martin,richard.martin@outlook.com,686.935.1272,IL,9/16/2024,490.15
+410,Lisa Wilson,lisa.wilson@yahoo.com,348-321-8454,OH,02-08-2024,234.29
+75,CHARLES HERNANDEZ,charles.hernandez@outlook.com,9631658802,IL,07/17/2024,63.44
+333,Lisa Johnson,lisa.johnson@company.com,(419) 976-6159,WA,2023-01-10,260.52
+247,daniel thomas,daniel.thomas@gmail.com,(292) 898-9383,NY,2024-11-16,325.73
+108,Joseph Martin,joseph.martin@hotmail.com,(829) 545-5498,NY,12/28/2022,209.04
+14,Barbara Wilson,barbara.wilson@gmail.com,945-447-2790,FL,02-02-2024,229.82
+97,Joseph Davis,joseph.davis@hotmail.com,6728875616,GA,22-06-2022,483.47
+357,Jennifer Jones,jennifer.jones@hotmail.com,(320) 234-4323,NC,2024-08-10,15.98
+24,Linda Garcia,linda.garcia at hotmail.com,885.984.5065,TX,26-06-2024,62.97
+58,Mark Jones,mark.jones@hotmail.com,4898435891,TX,05/27/2024,247.33
+98,Anthony Miller,anthony.miller@outlook.com,(928) 966-9452,WA,06/18/2023,88.55
+8,John Garcia,john.garcia@gmail.com,(766) 981-1188,GA,8/17/2024,386.61
+70,Sarah Hernandez,sarah.hernandez@gmail.com,(319) 243-1742,WA,10-12-2023,66.9
+65,Elizabeth Miller,elizabeth.miller@gmail.com,9164021359,wa,6/19/2024,433.88
+45,Lisa Moore,lisa.moore@outlook.com,523-222-9779,FL,2022-02-24,247.26
+155,Barbara Gonzalez,barbara.gonzalez@yahoo.com,2955157213,GA,11/28/2022,322.01
+412,Mark Martinez,mark.martinez@company.com,2885219548,FL,2024-09-28,420.12
+448,Michael Martinez,michael.martinez@outlook.com,6402217285,IL,09/01/2024,226.85
+346,John Williams,john.williams@company.com,786.256.7987,NC,2024-04-14,275.69
+429,Sarah Williams,sarah.williams@hotmail.com,(946) 524-3286,TX,26-03-2023,242.56
+454,William Garcia,william.garcia@hotmail.com,494.371.1778,NC,2024-02-27,
+354,Sandra Johnson,sandra.johnson@hotmail.com,384-897-9952,OH,02/24/2023,230.93
+185,BARBARA GARCIA,barbara.garcia@outlook.com,920-197-1017,PA,07/21/2022,300.9
+316,Betty Smith,betty.smith@company.com,(587) 325-5308,OH,23-03-2022,263.14
+487,KAREN TAYLOR,karen.taylor@hotmail.com,633-474-6706,IL,04-02-2024,331.15
+317,Betty Martin,betty.martin@outlook.com,270.286.3238,NY,2024-05-14,312.69
+156,Daniel Garcia,daniel.garcia@outlook.com,416.988.8790,CA,2022-09-02,345.37
+250,Margaret Thomas,margaret.thomas@yahoo.com,3065268908,TX,2024-12-02,391.79
+372,elizabeth jackson,elizabeth.jackson@company.com,(229) 582-1826,oh,2024-08-02,218.97
+309,Jennifer Martinez,jennifer.martinez@hotmail.com,674-746-3373,IL,2/13/2023,310.03
+382,nancy jones,nancy.jones@gmail.com,2862407813,NC,2023-11-14,315.39
+337,Charles Jones,charles.jones@yahoo.com,4275425747,TX,07/15/2024,50.45
+208,Sarah Smith,sarah.smith@outlook.com,(597) 376-3946,IL,6/19/2023,24.36
+355,Jennifer Anderson,jennifer.anderson@yahoo.com,(935) 850-3024,NY,2022-05-11,320.7
+236,Sarah Thomas,sarah.thomas@company.com,500-199-8713,WA,2022-11-18,283.93
+245,Jessica Jones,jessica.jones@gmail.com,8377203247,NY,2/22/2024,312.67
+336,Sandra Hernandez,sandra.hernandez@hotmail.com,(849) 896-7266,WA,04/24/2022,166.47
+88,Richard Martinez,richard.martinez@yahoo.com,994-457-6752,FL,2024-02-17,135.42
+7,Joseph Jones,joseph.jones@company.com,5703243266,NY,14-10-2024,431.94
+60,Betty Gonzalez,betty.gonzalez@yahoo.com,(302) 995-8213,GA,3/17/2022,17.52
+203,Jennifer Martinez,jennifer.martinez@gmail.com,(564) 505-9412,WA,2023-03-03,495.43
+3,Matthew Hernandez,matthew.hernandez@outlook.com,(947) 570-9785,OH,05/26/2024,153.66
+10,Matthew Taylor,matthew.taylor at hotmail.com,(446) 999-2290,PA,05/08/2023,489.21
+274,Richard Smith,richard.smith@yahoo.com,(505) 793-7113,GA,2024-05-21,79.27
+223,charles davis,charles.davis@gmail.com,323-875-8357,TX,2024-10-22,
+55,Thomas Smith,thomas.smith@hotmail.com,840-552-1845,WA,20-06-2024,464.56
+345,Christopher Martinez,christopher.martinez@company.com,230-668-5590,TX,09-11-2022,202.49
+464,Christopher Lopez,christopher.lopez@company.com,461-408-2478,WA,01-07-2023,446.22
+133,lisa martinez,lisa.martinez@company.com,3379719261,WA,15-05-2023,65.2
+310,RICHARD WILLIAMS,richard.williams@outlook.com,819.760.7479,PA,11/10/2023,470.0
+383,Joseph Taylor,joseph.taylor@hotmail.com,791.610.4878,OH,07/20/2022,292.41
+41,Patricia Wilson,patricia.wilson@hotmail.com,8309279817,PA,3/24/2023,368.2
+95,Elizabeth Garcia,elizabeth.garcia@hotmail.com,(303) 619-9843,IL,3/3/2022,312.84
+109,Thomas Garcia,thomas.garcia@company.com,441.897.7001,OH,01/05/2023,25.87
+96,Karen Gonzalez,karen.gonzalez@company.com,6204734891,NC,12/15/2022,376.78
+415,Robert Smith,robert.smith@hotmail.com,6748903271,TX,01-10-2024,191.51
+447,James Brown,james.brown@hotmail.com,(356) 410-2578,GA,7/20/2022,398.44
+175,Daniel Jones,daniel.jones@yahoo.com,768.270.9022,TX,2023-03-16,422.57
+136,Patricia Anderson,patricia.anderson@company.com,854-402-7021,FL,05/23/2024,244.31
+414,Thomas Johnson,thomas.johnson@gmail.com,909-849-7662,TX,02/18/2022,127.14
+320,Jessica Garcia,jessica.garcia@hotmail.com,(989) 553-5049,FL,08-12-2022,387.79
+231,Jennifer Thomas,jennifer.thomas@yahoo.com,(491) 128-7333,TX,12/27/2023,392.12
+344,Robert Garcia,robert.garcia@company.com,541-601-7445,CA,1/8/2022,182.44
+388,Barbara Garcia,barbara.garcia@hotmail.com,3487093525,OH,01/11/2024,126.59
+233,Elizabeth Rodriguez,elizabeth.rodriguez@outlook.com,798.204.1120,GA,10-08-2022,308.43
+371,Sarah Hernandez,sarah.hernandez@outlook.com,411.655.6739,WA,02/01/2023,355.13
+301,ANTHONY HERNANDEZ,anthony.hernandez@yahoo.com,3878644115,FL,4/19/2023,128.61
+161,Joseph Lopez,joseph.lopez@gmail.com,305.126.2468,GA,18-09-2023,303.04
+153,Barbara Johnson,barbara.johnson@company.com,(744) 664-7739,CA,08/01/2024,144.62
+361,matthew wilson,matthew.wilson@hotmail.com,(737) 314-4425,NY,11-05-2024,489.88
+449,Mary Johnson,mary.johnson@outlook.com,5198327374,NY,2022-08-14,250.37
+214,Richard Martinez,richard.martinez@yahoo.com,386-716-6213,NC,10/13/2024,253.13
+43,Jessica Miller,jessica.miller@outlook.com,729-295-2402,OH,05/18/2024,381.5
+24,Linda Garcia,linda.garcia at hotmail.com,885.984.5065,TX,26-06-2024,62.97
+202,Matthew Jackson,matthew.jackson@hotmail.com,988.312.8404,PA,2/18/2023,68.76
+432,Christopher Thomas,christopher.thomas@outlook.com,2292225541,NY,2023-12-21,187.26
+94,Richard Jones,richard.jones@outlook.com,(886) 819-9624,OH,2024-06-27,18.93
+403,Robert Miller,robert.miller@hotmail.com,(529) 956-4493,NC,2024-10-18,40.98
+92,Anthony Hernandez,anthony.hernandez at yahoo.com,5724815634,OH,2024-08-15,342.66
+237,Sandra Garcia,sandra.garcia@gmail.com,630.907.6428,WA,12/28/2022,237.24
+339,karen taylor,karen.taylor@hotmail.com,633-474-6706,IL,04-02-2024,331.15
+380,richard jones,richard.jones@company.com,(312) 981-5623,FL,12/18/2022,299.18
+59,William Moore,william.moore@outlook.com,(439) 976-7730,IL,19-04-2024,355.56
+9,William Brown,william.brown@gmail.com,719-208-5889,TX,2024-05-17,89.16
+258,Joseph Miller,joseph.miller at hotmail.com,990-561-8493,pa,11/19/2024,370.74
+394,Sandra Williams,sandra.williams@outlook.com,463.265.2212,CA,11/25/2024,173.0
+42,David Hernandez,david.hernandez@gmail.com,783.724.7209,CA,25-04-2023,169.26
+300,Betty Davis,betty.davis@outlook.com,917-952-5314,WA,09/18/2023,340.11
+131,CHRISTOPHER DAVIS,christopher.davis@hotmail.com,,PA,2023-02-22,107.73
+182,Mark Williams,mark.williams@outlook.com,9929672526,IL,06/19/2023,399.88
+130,Lisa Thomas,lisa.thomas@outlook.com,830-858-4920,CA,05/05/2024,270.21
+417,Sandra Johnson,sandra.johnson@outlook.com,833.141.6989,TX,12-07-2022,355.39
+292,Richard Miller,richard.miller@outlook.com,4679759783,NC,11/19/2023,145.02
